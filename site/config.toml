@@ -1,30 +1,42 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Kanteron Systems blog en castellano"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-51273041-2"
 # Define how many posts should appear on a site
 paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "noticias y apuntes"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "Kanteron Systems"
+  authorlocation = "Valencia | Madrid | Nueva York | Londres"
   authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  bio= "Medicina de Precisión en el Punto de Atención"
   logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-51273041-2"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "KanteronSystems"
+  twitterName = "kanteron"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "kanteron"
+
+  [[menu.main]]
+    name = "Blog"
+    weight = -120
+    identifier = "blog"
+    url = "https://bloges.kanteron.com"
+
+  [[menu.main]]
+    name = "Sitio Web"
+    weight = -110
+    identifier = "web"
+    url = "https://web.kanteron.com"
