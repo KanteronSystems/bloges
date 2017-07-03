@@ -45,7 +45,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 0
   identifier = "web"
-  name = "Sition web"
+  name = "Inicio web"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-globe\"></i>"
   url = "https://web.kanteron.com/"
 [[menu.main]]
