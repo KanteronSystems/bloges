@@ -1,18 +1,23 @@
 ---
 id: 2635
-title: 'Microsoft y Kanteron fundan &#8220;Alianza de IA en Sanidad&#8221; junto a otras 20 compañías tecnológicas'
+title: Microsoft y Kanteron fundan "Alianza de IA en Sanidad" junto a otras 20 compañías tecnológicas
 date: 2017-01-31T23:33:45+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2635
 permalink: /2017/01/31/microsoft-y-kanteron-fundan-alianza-de-ia-en-sanidad-junto-a-otras-20-companias-tecnologicas/
 image: /wp-content/uploads/sites/2/2017/01/MSF-AI.jpg
+thumbnailImagePosition: right
+thumbnailImage: //msenterprise.global.ssl.fastly.net/wordpress/2017/02/EH17_0002_2.jpg
+coverImage: //msenterprise.global.ssl.fastly.net/wordpress/2017/02/EH17_0002_2.jpg
+metaAlignment: center
+coverMeta: out
 ---
-La democractización de la inteligencia artificial (IA) está transformando la sanidad. _Analytics_, dispositivos móviles, _machine learning_, y genómica, están re-definiendo la medicina.
 
 Microsoft, Kanteron Systems y otras 20 empresas tecnológicas, han creado la &#8220;Alianza de IA en Sanidad&#8221; (&#8220;AI in Health Partner Alliance&#8221;), para aplicar la visión de los miembros fundadores de Democratizar la Inteligencia Artificial.
 
-<img class="aligncenter size-medium" src="https://msenterprise.global.ssl.fastly.net/wordpress/2017/02/EH17_0002_2.jpg" width="320" height="200" />
+<!--more-->
+
+La democratización de la inteligencia artificial (IA) está transformando la sanidad. *Analytics*, dispositivos móviles, *machine learning*, y genómica, están re-definiendo la medicina.
 
 La Alianza ha sido lanzada durante la Cumbre Europea de Innovación en Salud el 31 de enero y el 1 de febrero en Bruselas (Bélgica). Su objetivo es demostrar los beneficios de la IA en los sistemas sanitarios y demostrar que la industria ya está cumpliendo la promesa de la IA.
 
