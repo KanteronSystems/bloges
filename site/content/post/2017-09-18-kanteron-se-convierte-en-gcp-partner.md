@@ -5,7 +5,7 @@ tags: ["blog", "premios"]
 image: #"http://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png
 coverImage: #//res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png
 metaAlignment: center
@@ -18,7 +18,7 @@ Kanteron Systems aporta experiencia en Imagen Médica y Genómica Clínica a Goo
 
 18 de septiembre de 2017 - 12:00
 
-Kanteron Systems, pionera en la integración de datos clínicos de Medicina de Precisión, anunció hoy que ha sido nombrada Socio Tecnológico de Google Cloud, para proveer una solución de Software como Servicio (SaaS) que permite a los médicos de todo el mundo ofrecer Medicina de Precisión en la punto de atención.
+nombrada Socio Tecnológico de Google Cloud, para proveer una solución de Software como Servicio (SaaS) que permite a los médicos de todo el mundo ofrecer Medicina de Precisión en el punto de atención.
 
 La colaboración entre Google Cloud y Kanteron Systems permite a las instituciones sanitarias y a los pacientes beneficiarse de la integración de imágenes médicas (RIS-PACS), patología digital, genómica clínica, farmacogenómica y biosensores, que elimina la necesidad de que los hospitales adquieran y mantengan costosas infraestructuras, haciendo viable la Medicina de Precisión, algo que la Casa Blanca describió en 2015 como "una de las mayores oportunidades para nuevos avances médicos que hayamos visto"<sup>[1](#footnote1)</sup>.
 
