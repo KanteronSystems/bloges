@@ -6,8 +6,8 @@ image: "http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeIn
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: //www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
-coverImage: //www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
+thumbnailImage: http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
+coverImage: http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
 metaAlignment: center
 coverMeta: out
 ---
