@@ -12,7 +12,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-El Director Genral de Kanteron Systems expone en el Simposio Corporativo de Google Cloud en RSNA 2017
+El Director General de Kanteron Systems expone en el Simposio Corporativo de Google Cloud en RSNA 2017
 
 <!--more-->
 
@@ -24,7 +24,7 @@ El evento tuvo lugar, a su máxima capacidad, en McCormick Place - Chicago, el c
 
 "Junto a la genómica, las imágenes médicas son una de las fuentes de datos de más rápido crecimiento en el ámbito sanitario", dijo Moore. "En Google Cloud, estamos trabajando con la comunidad de investigación, la comunidad clínica y la industria de diagnóstico por imágenes para ayudar a los proveedores sanitarios a ser más precisos y efectivos a fin de mejorar los resultados de los pacientes".
 
-[Destacó iniciativas](http://www.healthcareitnews.com/news/google-cloud-strikes-imaging-partnerships-change-healthcare-dicom) como la que  Kanteron Systems tiene con Google Cloud Platform ([anunciada](https://blog.google/topics/google-cloud/google-cloud-rsna-engaging-medical-imaging-community/) por Google hace dos días). Kanteron, que se especializa en genómica clínica, está aprovechando la inteligencia artificial basada en la nube de Google para crear herramientas para radiólogos, patólogos, oncólogos y cirujanos, para llevar los datos de medicina de precisión al punto de atención.
+[Destacó iniciativas](http://www.healthcareitnews.com/news/google-cloud-strikes-imaging-partnerships-change-healthcare-dicom) como la que  Kanteron Systems tiene con Google Cloud Platform ([anunciada](https://blog.google/topics/google-cloud/google-cloud-rsna-engaging-medical-imaging-community/) por Google hace dos días). Kanteron, que se especializa en genómica clínica, está aprovechando la inteligencia artificial basada en la nube de Google para crear herramientas para radiólogos, patólogos, oncólogos, y cirujanos, para llevar los datos de medicina de precisión al punto de atención.
 
 ![ACR](https://farm5.staticflickr.com/4534/38658355282_bac58b89a5_b.jpg  "Brian Bialecki - American College of Radiology. IT Manager / Enterprise Architect Imaging / CIIP")
 
