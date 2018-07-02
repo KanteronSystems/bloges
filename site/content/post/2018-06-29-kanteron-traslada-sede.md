@@ -21,12 +21,16 @@ Por eso hemos decidido trasladar nuestra sede central a un nuevo campus.
 
 {{< alert info >}}
 Nuestra nueva dirección:
+
 Kanteron Systems
+
 Parque Científico
+
 Catedrático Agustín Escardino  9
+
 46980 Paterna, Valencia (España)
 {{< /alert >}}
 
 ¡Les esperamos!
 
-![Vista desde dentro del complejo](http://res.cloudinary.com/jcortell/image/upload/v1530184290/Kanteron/parqueinterior.webp)
+![Vista desde dentro del complejo](http://res.cloudinary.com/jcortell/image/upload/f_png,q_auto:low/v1530184290/Kanteron/parqueinterior.jpg)
