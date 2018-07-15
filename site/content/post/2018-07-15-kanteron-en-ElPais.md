@@ -1,6 +1,6 @@
 ---
 date: 2018-07-15T20:14:57+00:00
-title: Artículo a toda página de Kanteron Systems en el periódico de mayor circulación de España: El País
+title: Artículo a toda página de Kanteron Systems en el periódico de mayor circulación de España, El País
 tags: ["kanteron", "noticias"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg"
 comments: true     # set false to hide Disqus comments
