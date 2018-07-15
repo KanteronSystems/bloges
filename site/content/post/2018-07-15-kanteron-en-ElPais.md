@@ -17,4 +17,4 @@ El País, periódico generalista de mayor circulación de España (y con mayor p
 <!--more-->
 Pese a que el artículo no se encuentra disponible online todavía, aquí está la versión impresa por el momento:
 
-![Kanteron Systems' CEO](hhttp://res.cloudinary.com/jcortell/image/upload/v1531666403/Media/IMG-20180715-WA0000.jpg)
+![Artículo EL País](http://res.cloudinary.com/jcortell/image/upload/v1531666403/Media/IMG-20180715-WA0000.jpg)
