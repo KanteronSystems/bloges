@@ -2,12 +2,12 @@
 date: 2018-06-12T20:14:57+00:00
 title: Kanteron Systems entre los principales proveedores de Patología Digital
 tags: ["kanteron", "noticias"]
-image: "https://www.psmarketresearch.com/images/logo.png"
+image: "https://www.psmarketresearch.com/img/logo.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
-thumbnailImage: https://www.psmarketresearch.com/images/logo.png
-coverImage:
+thumbnailImagePosition: left
+thumbnailImage: https://www.psmarketresearch.com/img/logo.png
+coverImage: https://www.psmarketresearch.com/img/logo.png
 metaAlignment: center
 coverMeta: out
 
