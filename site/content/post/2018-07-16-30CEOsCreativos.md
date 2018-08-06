@@ -5,7 +5,7 @@ tags: ["kanteron", "noticias"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1531667729/MirrorReviewCreativeCEOs.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1531667729/MirrorReviewCreativeCEOs.jpg
 coverImage: http://res.cloudinary.com/jcortell/image/upload/v1531667729/MirrorReviewCreativeCEOs.jpg
 metaAlignment: center
