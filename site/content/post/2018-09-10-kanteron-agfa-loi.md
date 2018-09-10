@@ -7,7 +7,7 @@ comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
 thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg
-coverImage: https://cdn.pixabayhttp://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg
+coverImage: http://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg
 metaAlignment: center
 coverMeta: out
 
