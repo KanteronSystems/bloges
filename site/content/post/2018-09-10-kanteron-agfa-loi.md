@@ -25,5 +25,11 @@ Las reacciones de la industria a la noticia han sido muy positivas. Nadim Michel
 Las comunicaciones entre las empresas se encuentran en una etapa inicial, por lo tanto, no existe certeza sobre si, y en qué condiciones, Kanteron Systems pueda hacer una oferta pública a los accionistas de Agfa-Gevaert NV.
 
 Noticia publicada en:
+
 [La Razón - Innovadores](https://innovadores.larazon.es/es/not/la-medicina-exponencial-de-kanteron-quiere-dar-un-bocado-a-la-mitica-agfa)
+
 [Aunt Minnie](https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fSec%3dsup%26Sub%3dpac%26Pag%3ddis%26ItemId%3d121806)
+
+[Expansión](http://www.expansion.com/empresas/tecnologia/2018/09/14/5b9abc31e5fdea837a8b4596.html)
+
+[Nasdaq](https://www.nasdaq.com/article/belgiums-agfa-gevaert-rejects-takeover-offer-from-kanteron-systems-20180913-00131)
