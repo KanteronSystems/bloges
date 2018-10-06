@@ -1,6 +1,6 @@
 ---
 date: 2018-09-10T20:14:57+00:00
-title: ACTUALIZADO: Kanteron Systems expresa interés en la adquisición apalancada de Agfa-Gevaert NV
+title: ACTUALIZADO - Kanteron Systems expresa interés en la adquisición apalancada de Agfa-Gevaert NV
 tags: ["kanteron", "noticias"]
 image: "http://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg"
 comments: true     # set false to hide Disqus comments
@@ -12,7 +12,7 @@ metaAlignment: center
 coverMeta: out
 
 ---
-[ESTA ENTRADA FUE ACTUALIZADA EL 19/09/2018] La startup española Kanteron Systems confirma que ha enviado al Consejo de Administración de [Agfa-Gevaert NV](http://www.agfa.com/corporate/) una indicación de interés no vinculante para la adquisición de todas las acciones de Agfa-Gevaert NV mediante oferta pública de adquisición condicional voluntaria de Kanteron Systems a todos los accionistas de Agfa-Gevaert NV.
+ESTA ENTRADA FUE ACTUALIZADA EL 19/09/2018 - La startup española Kanteron Systems confirma que ha enviado al Consejo de Administración de [Agfa-Gevaert NV](http://www.agfa.com/corporate/) una indicación de interés no vinculante para la adquisición de todas las acciones de Agfa-Gevaert NV mediante oferta pública de adquisición condicional voluntaria de Kanteron Systems a todos los accionistas de Agfa-Gevaert NV.
 
 <!--more-->
 
