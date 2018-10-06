@@ -1,6 +1,6 @@
 ---
 date: 2018-10-06T20:14:57+00:00
-title: Kanteron Systems participará en el Longevity World Congress
+title: Kanteron Systems en el Longevity World Congress
 tags: ["kanteron", "noticias"]
 image: "https://www.longevityworldforum.com/wp-content/uploads/2018/09/Longevity-2018-Participantes.jpg"
 comments: true     # set false to hide Disqus comments
@@ -16,6 +16,6 @@ El primer encuentro sobre longevidad y genómica de Europa se celebrará el 7 y 
 
 <!--more-->
 
- #Longevity18 congregará a referentes mundiales de la comunidad científica especialistas en genómica y longevidad, como Aubrey de Grey, Director de la SENS Research Foundation, María Blasco Marhuenda, directora del Centro Nacional de Investigaciones Oncológicas, Jorge Cortell, Fundador y director de Kanteron Systems, y Pablo Marín, Director de Bioinformática de Kanteron Systems.
+Longevity18 congregará a referentes mundiales de la comunidad científica especialistas en genómica y longevidad, como Aubrey de Grey, Director de la SENS Research Foundation, María Blasco Marhuenda, directora del Centro Nacional de Investigaciones Oncológicas, Jorge Cortell, Fundador y director de Kanteron Systems, y Pablo Marín, Director de Bioinformática de Kanteron Systems.
 
-[Program completo](https://www.longevityworldforum.com/es/programa/)
+[Programa completo](https://www.longevityworldforum.com/es/programa/)
