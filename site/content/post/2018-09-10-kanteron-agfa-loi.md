@@ -1,6 +1,6 @@
 ---
 date: 2018-09-10T20:14:57+00:00
-title: Kanteron Systems expresa interés en la adquisición apalancada de Agfa-Gevaert NV
+title: ACTUALIZADO: Kanteron Systems expresa interés en la adquisición apalancada de Agfa-Gevaert NV
 tags: ["kanteron", "noticias"]
 image: "http://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg"
 comments: true     # set false to hide Disqus comments
@@ -12,7 +12,7 @@ metaAlignment: center
 coverMeta: out
 
 ---
-La startup española Kanteron Systems confirma que ha enviado al Consejo de Administración de [Agfa-Gevaert NV](http://www.agfa.com/corporate/) una indicación de interés no vinculante para la adquisición de todas las acciones de Agfa-Gevaert NV mediante oferta pública de adquisición condicional voluntaria de Kanteron Systems a todos los accionistas de Agfa-Gevaert NV.
+[ESTA ENTRADA FUE ACTUALIZADA EL 19/09/2018] La startup española Kanteron Systems confirma que ha enviado al Consejo de Administración de [Agfa-Gevaert NV](http://www.agfa.com/corporate/) una indicación de interés no vinculante para la adquisición de todas las acciones de Agfa-Gevaert NV mediante oferta pública de adquisición condicional voluntaria de Kanteron Systems a todos los accionistas de Agfa-Gevaert NV.
 
 <!--more-->
 
@@ -31,5 +31,15 @@ Noticia publicada en:
 [Aunt Minnie](https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fSec%3dsup%26Sub%3dpac%26Pag%3ddis%26ItemId%3d121806)
 
 [Expansión](http://www.expansion.com/empresas/tecnologia/2018/09/14/5b9abc31e5fdea837a8b4596.html)
+
+ACTUALIZACIÓN:
+
+[Agfa-Gevaert NV dijo en un comunicado fechado el 13 de septiembre](http://www.agfa.com/corporate/news-item/agfa-declines-indication-of-interest-by-kanteron-systems/) que su dirección decidió no participar en conversaciones con Kanteron Systems en esta etapa.
+
+Siguiendo la solicitud de la [Autoridad de Servicios Financieros y Mercados de Bélgica FSMA](https://www.fsma.be/en), Kanteron Systems ha decidido restringir cualquier otra comunicación relacionada con este tema. Por lo tanto, se realizarán más anuncios a su debido tiempo, si las circunstancias así lo requieren, de acuerdo con los canales y las reglamentaciones establecidas por la FSMA.
+
+Publicado por:
+
+[Reuters](https://www.reuters.com/article/us-storm-florence/trump-pledges-strong-federal-support-for-hurricane-stricken-carolinas-idUSKCN1LX126)
 
 [Nasdaq](https://www.nasdaq.com/article/belgiums-agfa-gevaert-rejects-takeover-offer-from-kanteron-systems-20180913-00131)
