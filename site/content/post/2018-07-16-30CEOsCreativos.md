@@ -12,7 +12,7 @@ metaAlignment: center
 coverMeta: out
 
 ---
-La revista Mirror Review ha elegido a Jorge Cortell, Director Gerente de Kanteron Systems, entre los 30 Ejecutivos Más Creativos del Mundo.
+La revista [Mirror Review](http://magazine.mirrorreview.com/The-30-Most-Creative-CEOs-of-2018/) ha elegido a Jorge Cortell, Director Gerente de Kanteron Systems, entre los 30 Ejecutivos Más Creativos del Mundo.
 
 <!--more-->
 El artículo se encuentra [disponible online aquí](https://www.mirrorreview.com/jorge-cortell-pioneering-entrepreneur-behind-kanteron-systems/) y la [lista completa aquí](https://www.mirrorreview.com/the-30-most-creative-ceos-of-2018/).
