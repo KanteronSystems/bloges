@@ -16,6 +16,9 @@ El primer encuentro sobre longevidad y genómica de Europa se celebrará el 7 y 
 
 <!--more-->
 
+![Jorge Cortell](http://valenciaplaza.com/public/Image/2018/10/NOTICIAJORGECORTELL_NoticiaAmpliada.jpg)
+
  #Longevity18 congregará a referentes mundiales de la comunidad científica especialistas en genómica y longevidad, como Aubrey de Grey, Director de la SENS Research Foundation, María Blasco Marhuenda, directora del Centro Nacional de Investigaciones Oncológicas, Jorge Cortell, Fundador y director de Kanteron Systems, y Pablo Marín, Director de Bioinformática de Kanteron Systems.
 
 [Programa completo](https://www.longevityworldforum.com/es/programa/)
+[Noticia en Valencia Plaza](http://valenciaplaza.com/el-sector-e-health-sera-protagonista-del-longevity-world-forum-con-la-startup-kanteron-systems)
