@@ -5,14 +5,14 @@ tags: ["kanteron", "noticias", "premios"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
-La agencia de calificación [Early Metrics](http://earlymetrics.com/) clasifica a Kanteron Systems en el 10% superior de las más de 2.000 empresas tecnológicas calificadas por ellos en todo el mundo desde 2014.
+La agencia de calificación [Early Metrics](http://earlymetrics.com/) clasifica a Kanteron Systems en el top 4% de Tecnología Sanitaria y el 7% de tecnología general (en su logo redondean al 10%) de las más de 2.000 empresas tecnológicas calificadas por ellos en todo el mundo desde 2014.
 
 <!--more-->
 
