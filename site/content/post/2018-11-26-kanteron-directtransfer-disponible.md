@@ -1,6 +1,6 @@
 ---
 date: 2018-11-26T20:14:57+00:00
-title: Kanteron Systems anuncia la disponibilidad de DirectTransfer: ya no harán falta cortafuegos, SSL o NAT
+title: Kanteron Systems anuncia la disponibilidad de DirectTransfer - Adiós a cortafuegos, SSL o NAT
 tags: ["kanteron", "producto"]
 image: "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80"
 comments: true     # set false to hide Disqus comments
