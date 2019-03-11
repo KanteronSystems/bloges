@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-El [Centro Nacional de Investigaciones Oncológicas de España - CNIO](https://www.cnio.es/en/) ha invitado a Kanteron Systems a dar un a ponencia dentro del Taller sobre Tecnologia Innovadora para la Salud: "El viaje del paciente: Tecnologías de la Información centradas en el paciente de cáncer", del evento de la [Red Europea de Cooperación en Oncología ONCONET-SUDOE](https://www.onconet-sudoe.eu/es) que tendrá lugar en el Auditorio del CNIO (Madrid), los días 3 y 4 de abril 2019.
+El [Centro Nacional de Investigaciones Oncológicas de España - CNIO](https://www.cnio.es/en/), el [mejor de Europa](https://www.cnio.es/noticias/noticias-cnio/el-cnio-lidera-el-ranking-de-centros-de-investigacion-del-cancer-en-europa/) y 4° del mundo según la revista Nature, ha invitado a Kanteron Systems a dar un a ponencia dentro del [Taller sobre Tecnologia Innovadora para la Salud](https://www.cnio.es/eventos/onconet-sudoe-workshop-on-innovative-it-for-healthcare-the-patient-journey-information-technologies-focused-on-the-cancer-patient/): "El viaje del paciente: Tecnologías de la Información centradas en el paciente de cáncer", del evento de la [Red Europea de Cooperación en Oncología ONCONET-SUDOE](https://www.onconet-sudoe.eu/es) que tendrá lugar en el Auditorio del CNIO (Madrid), los días 3 y 4 de abril 2019.
 
 <!--more-->
 
