@@ -29,4 +29,4 @@ Algunas de las características incluidas son:
 * Directorio de Directivos con información de contacto.
 * Chat directo en la aplicación
 
-![Usuario con aplicación](https://res.cloudinary.com/jcortell/image/upload/v1556739010/Kanteron/InvestorRelationsApp/mockuper_1.png)
+![Usuario con aplicación](https://res.cloudinary.com/jcortell/image/upload/v1556741687/Kanteron/InvestorRelationsApp/mockuper_4.png)
