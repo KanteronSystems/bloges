@@ -5,7 +5,7 @@ tags: ["kanteron", "producto"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 metaAlignment: center
@@ -20,7 +20,7 @@ La configuración de IA permite al usuario elegir el modelo deseado de la lista 
 
 ![Elija su propio conjunto de datos](https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
 
-IA Flexible es el resultado de código abierto de la colaboración del Laboratorio de Informática Médica de la Queen's University y el Laboratorio de Planificación Quirúrgica de la Escuela de Medicina de Harvard, que permite el despliegue de modelos de IA para una segunda opinión de los radiólogos con la ayuda de IA, al tiempo que proporciona una visualización de imágenes estándar y esquemas de información.
+IA Flexible es resultado de la colaboración del Laboratorio de Informática Médica de la Queen's University y el Laboratorio de Planificación Quirúrgica de la Escuela de Medicina de Harvard, que permite el despliegue de modelos de IA para una segunda opinión de los radiólogos con la ayuda de IA, al tiempo que proporciona una visualización de imágenes estándar y esquemas de información.
 
 Buscamos clientes-socios que deseen ser pioneros en la aplicación de la IA en imágenes médicas y desarrollar su propia experiencia en una plataforma flexible que les permita la libertad de aplicar esta emocionante tecnología a muchos casos de uso. Además, definitivamente queremos trabajar con usted si también desea correlacionar la imagen de patología y los datos genómicos con imágenes médicas, de una manera que solo la plataforma de Kanteron permite hoy.
 
