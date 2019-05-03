@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Después de levantar € 2M en su primera ronda de inversión, Kanteron Systems lanza su propia aplicación de Relación con Inversores para gestionar el intercambio de información actualizada.
+Después de levantar € 2M en su primera ronda de inversión en forma de Préstamo Participativo, Kanteron Systems lanza su propia aplicación de Relación con Inversores para gestionar el intercambio de información actualizada.
 
 <!--more-->
 
