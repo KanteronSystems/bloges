@@ -21,7 +21,9 @@ Kanteron Systems presenta su avanzado desarrollo de I+D+i en aplicaciones de an�
 
 Durante los últimos 6 meses, Kanteron Systems ha estado trabajando estrechamente con la iniciativa de genómica clínica OpenCB de la Universidad de Cambridge, contribuyendo código y conocimiento clínico. Este software está siendo utilizado actualmente por las principales compañías farmacéuticas y grandes proyectos de genómica como Genome England, donde se necesitan sistemas optimizados que puedan manejar millones de genomas de manera eficiente.
 
-Dirigido por el Director de Bioinformática de Kanteron Systems, el Dr. Pablo Marín, junto con otros miembros de su equipo como el bioinformático David Gómez-Peregrina y el matemático Dr. Josemi Juanes, el nuevo software se ha desarrollado en colaboración con OpenCB, MGviz y Seqplexing. E-cartel E-P16.03 "PanelMaps: a genome-scale coverage QC and CNV advisor web application".
+Dirigido por el Director de Bioinformática de Kanteron Systems, el Dr. Pablo Marín, junto con otros miembros de su equipo y su tesinando el matemático Josemi Juanes del laboratorio del Dr. Javier Chaves en el Instituto de Investigación Sanitaria INCLIVA[^[1]], el nuevo software se ha desarrollado en colaboración con OpenCB, MGviz y Seqplexing. E-cartel E-P16.03 "PanelMaps: a genome-scale coverage QC and CNV advisor web application".
+
+[^[1]]: Beca del Instituto de Salud Carlos III mediante el proyecto “IFI15/00138” (Co-financiado por el Fondo Europeo de Desarrollo Regional).
 
 ![Panelmaps1](https://res.cloudinary.com/jcortell/image/upload/v1560869035/Kanteron/Panelmaps1.png)
 
