@@ -2,7 +2,7 @@
 date: 2018-11-26T20:14:57+00:00
 title: Kanteron Systems anuncia la disponibilidad de DirectTransfer - Adiós a cortafuegos, SSL o NAT
 tags: ["kanteron", "producto"]
-image: "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80"
+images: "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
@@ -16,13 +16,15 @@ Kanteron Systems anuncia la disponibilidad de una nueva manera de conectar dispo
 
 <!--more-->
 
-&#8220;DirectTransfer de Kanteron&#8221; permitirá a las redes hospitalarias lograr mayores velocidades de transferencia, reducir costos y establecer redes de telemedicina a gran escala sin problemas mediante la aplicación de nuevos protocolos de red y algoritmos informáticos.
+*DirectTransfer de Kanteron*; permitirá a las redes hospitalarias lograr mayores velocidades de transferencia, reducir costos y establecer redes de telemedicina a gran escala sin problemas mediante la aplicación de nuevos protocolos de red y algoritmos informáticos.
 
 Kanteron Systems desarrolló este un nuevo hito de la industria en 2016, pero no ha sido hasta ahora, cuando los proveedores de telecomunicaciones han actualizado sus redes, que se puede ofrecer esta nueva tecnología en determinados mercados. Gracias al soporte completo de esta tecnología por parte de Telefónica, los primeros países en los que se ofrece son: Perú, Brasil y México. En unos meses se ampliará a otros muchos países, como Alemania, Malasia, Tailandia, Japón, Australia, etc.
 
-Esta innovación surge del aprovechamiento de los últimos protocolos de red diseñados para la multimedia _online_ y la aplicación de las lecciones aprendidas de la &#8220;Internet de las cosas&#8221; (IoT), para lograr un enrutamiento y procesamiento de paquetes de datos más eficiente, flujos de datos dirigidos, simplificación de la configuración de red, y seguridad reforzada.
+Esta innovación surge del aprovechamiento de los últimos protocolos de red diseñados para la multimedia _online_ y la aplicación de las lecciones aprendidas de la Internet de las cosas (IoT), para lograr un enrutamiento y procesamiento de paquetes de datos más eficiente, flujos de datos dirigidos, simplificación de la configuración de red, y seguridad reforzada.
 
-&#8220;Los sistemas de imágenes y datos médicos existentes se basan en mecanismos que tienen décadas de antigüedad&#8221;, dijo Jorge Cortell, director general de Kanteron Systems. &#8220;Mediante la aplicación de las últimas tecnologías disponibles y el aprovechamiento de nuevos algoritmos informáticos, nuestra plataforma establece un nuevo estándar en el intercambio de datos e integración de la salud.&#8221; En términos técnicos, esta nueva era de la conectividad de datos de la salud significa:
+> Los sistemas de imágenes y datos médicos existentes se basan en mecanismos que tienen décadas de antigüedad&, dijo Jorge Cortell, director general de Kanteron Systems. Mediante la aplicación de las últimas tecnologías disponibles y el aprovechamiento de nuevos algoritmos informáticos, nuestra plataforma establece un nuevo estándar en el intercambio de datos e integración de la salud
+
+En términos técnicos, esta nueva era de la conectividad de datos de la salud significa:
 
   * Pasar de la emisión _broadcast_ a multidifusión (unicast o)
   * De la traducción de direcciones de red (NAT) a una conectividad de extremo a extremo con una configuración simplificada de la red (dirección de la autoconfiguración)
@@ -48,4 +50,4 @@ La seguridad de Kanteron de DirectTransfer también incluye:
   * Antireplay
   * Confidencialidad del flujo de tráfico limitado
 
-Para asegurar la compatibilidad con redes hospitalarias existentes, DirectTransfer es compatible con estructuras de redes anteriores. Esto asegura la conectividad entre redes antigüas y nuevas mediante el &#8220;_dual stack_&#8220;.
+Para asegurar la compatibilidad con redes hospitalarias existentes, DirectTransfer es compatible con estructuras de redes anteriores. Esto asegura la conectividad entre redes antigüas y nuevas mediante el _dual stack_.
