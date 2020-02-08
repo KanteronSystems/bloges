@@ -1,6 +1,6 @@
 ---
 id: 1264
-title: 'Kanteron Systems participates in IBM #START014 in Madrid (Spain)'
+title: 'Kanteron Systems participates in IBM START014 in Madrid (Spain)'
 date: 2013-09-26T16:22:36+00:00
 author: kanteron
 layout: post
@@ -8,7 +8,7 @@ guid: http://www.kanteron.com/blog/?p=1264
 permalink: /2013/09/26/kanteron-systems-to-participate-in-ibm-start014-in-madrid-spain/
 image: /wp-content/uploads/sites/2/2013/09/Banner-Start014-PartnerWorld_710-672x283.gif
 ---
-<img class="aligncenter" alt="Alvaro at Start14" src="http://farm8.staticflickr.com/7376/10962678603_6a7db5fecd_n.jpg" width="320" height="320" /></p> 
+<img class="aligncenter" alt="Alvaro at Start14" src="http://farm8.staticflickr.com/7376/10962678603_6a7db5fecd_n.jpg" width="320" height="320" /></p>
 
 Kanteron Systems tendrá un stand en el congreso de <a title="http://www-01.ibm.com/software/es/congreso2013/index.html?cmp=ES3BA&ct=ES3BA02E&cr=kanteron&S_TACT=kanteron " href="http://www-01.ibm.com/software/es/congreso2013/index.html?cmp=ES3BA&ct=ES3BA02E&cr=kanteron&S_TACT=kanteron" target="_blank">IBM #START014</a>, el 20 de noviembre de 2013, en el Palacio Municipal de Congresos de Madrid (España).
 
