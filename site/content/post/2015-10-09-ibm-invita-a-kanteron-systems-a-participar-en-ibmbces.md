@@ -1,6 +1,6 @@
 ---
 id: 2315
-title: 'IBM invita a Kanteron Systems a participar en #IBMBCES'
+title: 'IBM invita a Kanteron Systems a participar en IBMBCES'
 date: 2015-10-09T12:04:02+00:00
 author: kanteron
 layout: post
