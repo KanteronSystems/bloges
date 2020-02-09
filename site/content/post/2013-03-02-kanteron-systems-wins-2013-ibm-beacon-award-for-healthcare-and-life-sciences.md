@@ -8,7 +8,7 @@ guid: https://www.kanteron.com/blog/?p=909
 permalink: /2013/03/02/kanteron-systems-wins-2013-ibm-beacon-award-for-healthcare-and-life-sciences/
 image: /wp-content/uploads/sites/2/2013/03/beacon-672x372.jpg
 ---
-<figure style="width: 476px" class="wp-caption aligncenter"><img class=" " alt="Award" src="httpss://lh6.googleusercontent.com/-4yzoGzI_NJ0/US2mq3tJS-I/AAAAAAAAJn0/QBpNT-HAUiM/s794/IMG_0373_6594.JPG" width="476" height="356" /><figcaption class="wp-caption-text">Jorge Cortell, CEO de Kanteron Systems, recibiendo el Premio Beacon Sanidad de IBM de manos de Mike Rhodin (Vice Presidente IBM Grupo de Soluciones de Software) en Las Vegas</figcaption></figure> 
+<figure style="width: 476px" class="wp-caption aligncenter"><img class=" " alt="Award" src="https://lh6.googleusercontent.com/-4yzoGzI_NJ0/US2mq3tJS-I/AAAAAAAAJn0/QBpNT-HAUiM/s794/IMG_0373_6594.JPG" width="476" height="356" /><figcaption class="wp-caption-text">Jorge Cortell, CEO de Kanteron Systems, recibiendo el Premio Beacon Sanidad de IBM de manos de Mike Rhodin (Vice Presidente IBM Grupo de Soluciones de Software) en Las Vegas</figcaption></figure> 
 
 Los premios IBM Beacon Awards reconocen a los Business Partners de IBM por su excelencia técnica, conocimiento del sector y soluciones innovadoras.
 
@@ -26,6 +26,6 @@ Los Beacon Awards son un elemento vital del programa de reconocimiento de IBM Bu
 
 Mark Hennessy, Director General, IBM Global Business Partners.
 
-<a title="httpss://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" href="httpss://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" target="_blank">Más información sobre los premios Beacon Awards de IBM</a>, incluyendo información sobre los ganadores y finalistas.
+<a title="https://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" href="https://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" target="_blank">Más información sobre los premios Beacon Awards de IBM</a>, incluyendo información sobre los ganadores y finalistas.
 
 &nbsp;</p>

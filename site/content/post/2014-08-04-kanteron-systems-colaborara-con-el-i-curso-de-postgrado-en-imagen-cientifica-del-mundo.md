@@ -19,7 +19,7 @@ En el curso participan 20 profesores seleccionados entre los mejores especialist
 
 Preinscipción oficial:
   
-<a title="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual#cod_estudio=14170</a>
+<a title="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual#cod_estudio=14170</a>
 
 Información detallada sobre el contenido, profesores y horarios:
   

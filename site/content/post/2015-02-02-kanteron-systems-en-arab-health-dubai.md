@@ -11,4 +11,4 @@ Kanteron Systems regresó este año a <a title="https://www.arabhealthonline.com
 
 A través de nuestros nuevos _partners_ en la región, tenemos en marcha más de una veintena de proyectos en los Emiratos Árabes Unidos, Qatar, Irán, Iraq, Nigeria, Tanzania, y Etiopía.<figure style="width: 240px" class="wp-caption aligncenter">
 
-[<img src="httpss://farm8.staticflickr.com/7300/16187408890_124580bda6_m.jpg" alt="IMG_20150126_150818" width="240" height="178" />](https://www.arabhealthonline.com/ "IMG_20150126_150818 by Jorge Cortell, on Flickr")<figcaption class="wp-caption-text">Jorge Cortell, CEO de Kanteron Systems CEO, en el _lobby_ de Arab Health, Dubai</figcaption></figure>
+[<img src="https://farm8.staticflickr.com/7300/16187408890_124580bda6_m.jpg" alt="IMG_20150126_150818" width="240" height="178" />](https://www.arabhealthonline.com/ "IMG_20150126_150818 by Jorge Cortell, on Flickr")<figcaption class="wp-caption-text">Jorge Cortell, CEO de Kanteron Systems CEO, en el _lobby_ de Arab Health, Dubai</figcaption></figure>

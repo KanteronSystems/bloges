@@ -36,7 +36,7 @@ Diseñada para interoperar con sistemas sanitarios existentes (PACS, RIS, HCE, L
 
 Kanteron Systems es una empresa privada de Tecnología Sanitaria creada en 2005 que ayuda a los proveedores de atención médica a administrar imágenes y datos genómicos de forma efectiva para aplicaciones de medicina de precisión en el punto de atención.
 
-Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](httpss://www.kanteron.com).
+Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](https://www.kanteron.com).
 
 Kanteron Systems es una marca propiedad de Kanteron Systems. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.
 
@@ -50,9 +50,9 @@ jmemarian@kanteron.com
 
 ---
 
-<a name="footnote1">1</a>: httpss://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
+<a name="footnote1">1</a>: https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
 
-<a name="footnote2">2</a>: httpss://www.gartner.com/doc/3525644
+<a name="footnote2">2</a>: https://www.gartner.com/doc/3525644
 <a name="footnote3">3</a>: https://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
 
 ---

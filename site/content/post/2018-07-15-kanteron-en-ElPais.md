@@ -16,4 +16,4 @@ El País, periódico generalista de mayor circulación de España (y con mayor p
 
 <!--more-->
 
-[El artículo se encuentra disponible online aquí](httpss://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)
+[El artículo se encuentra disponible online aquí](https://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)

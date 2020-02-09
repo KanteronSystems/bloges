@@ -31,6 +31,6 @@ Para más información, visite:
 
 <https://democratizing-ai-in-health.azurewebsites.net/>
 
-<httpss://enterprise.microsoft.com/en-us/articles/industries/health/the-time-has-come-to-democratize-ai-and-empower-better-health-outcomes/>
+<https://enterprise.microsoft.com/en-us/articles/industries/health/the-time-has-come-to-democratize-ai-and-empower-better-health-outcomes/>
 
-<httpss://blogs.microsoft.com/blog/2017/02/16/microsoft-partners-combine-cloud-ai-research-industry-expertise-focus-transforming-health-care/>
+<https://blogs.microsoft.com/blog/2017/02/16/microsoft-partners-combine-cloud-ai-research-industry-expertise-focus-transforming-health-care/>

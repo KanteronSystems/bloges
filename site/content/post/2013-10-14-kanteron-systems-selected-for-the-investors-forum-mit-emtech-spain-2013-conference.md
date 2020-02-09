@@ -10,4 +10,4 @@ image: /wp-content/uploads/sites/2/2013/10/banner_mitef_large-672x175.png
 ---
 Kanteron Systems ha sido seleccionada para participar en el Foro de Inversores el 6 de noviembre en Valencia (España) como parte de la Conferencia EmTech 2013 MIT <a title="https://mitef.es/en/" href="https://mitef.es/en/" target="_blank">Enterprise Forum</a>.
 
-#invertorsforum [@mitefspain](httpss://twitter.com/mitefspain)
+#invertorsforum [@mitefspain](https://twitter.com/mitefspain)

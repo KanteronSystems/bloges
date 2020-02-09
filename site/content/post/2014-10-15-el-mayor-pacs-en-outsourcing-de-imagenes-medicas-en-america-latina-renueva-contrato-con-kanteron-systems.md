@@ -9,7 +9,7 @@ permalink: /2014/10/15/el-mayor-pacs-en-outsourcing-de-imagenes-medicas-en-ameri
 panels_data:
   - 'a:0:{}'
 ---
-<img class="aligncenter" src="httpss://farm4.staticflickr.com/3927/15225386118_067eee80d1_m.jpg" alt="EsSalud logo" width="240" height="77" />
+<img class="aligncenter" src="https://farm4.staticflickr.com/3927/15225386118_067eee80d1_m.jpg" alt="EsSalud logo" width="240" height="77" />
 
 El lunes 6 de octubre de EsSalud – Administración del Seguro Social del Perú – firmó una renovación de contrato de servicios (número 4600044350, proceso 1499E00031) con Kanteron Systems para continuar dando soporte al mayor sistema en _outsourcing_ de imágenes médicas en América Latina. Esta renovación es una prueba de la satisfacción de EsSalud con un sistema que llevan utilizando más de 3 años.
 

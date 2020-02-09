@@ -10,6 +10,6 @@ panels_data:
   - 'a:0:{}'
 format: aside
 ---
-<img class="aligncenter" src="httpss://pbs.twimg.com/media/BpMwSeOIAAAx6sf.jpg" alt="BHI14" width="600" height="450" />
+<img class="aligncenter" src="https://pbs.twimg.com/media/BpMwSeOIAAAx6sf.jpg" alt="BHI14" width="600" height="450" />
 
 Juan Tatay (Director de Kanteron Systems) expuso hoy una ponencia sobre las soluciones y visión de Kanteron Systems en el  <a title="https://bhi.embs.org/2014/" href="https://bhi.embs.org/2014/" target="_blank">2014 BHI </a>(Conferencia Internacional de Informática Biomédica y de Salud

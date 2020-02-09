@@ -2,12 +2,12 @@
 date: 2018-03-03T20:14:57+00:00
 title: Tele-Genómica para Medicina de Precisión en Google Cloud
 tags: ["medios", "kanteron", "noticias"]
-image: "httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
-coverImage: httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
+coverImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -20,11 +20,11 @@ Basada en imágenes médicas y genómica clínica, la Medicina de Precisión es 
 
 La imagen médica (ahora imágenes médicas digitales) ha sido una práctica estándar en los flujos de trabajo de atención médica desde hace décadas. Sin embargo, la genómica clínica es un participante más reciente en los modelos de prestación de atención. Impulsado por las dramáticas caídas en el precio y el tiempo de secuencia, la genómica clínica ha comenzado a ser un componente más habitual de la atención al paciente. Esta mayor demanda ha llevado a una escasez de bioinformáticos y asesores genómicos, y un aumento en la carga de trabajo cognitivo de los médicos.
 
-Para hacer frente a este desafío, Kanteron Systems ha presentado Tele-Genómica en [Google Cloud Platform](httpss://www.google.com/cloud/solutions/healthcare-life-sciences/) además de su plataforma de medicina de precisión.
+Para hacer frente a este desafío, Kanteron Systems ha presentado Tele-Genómica en [Google Cloud Platform](https://www.google.com/cloud/solutions/healthcare-life-sciences/) además de su plataforma de medicina de precisión.
 
-El año pasado, Kanteron Systems se convirtió en [Google Cloud Technology Partner](httpss://cloud.google.com/partners/) para impulsar nuestra plataforma Medicina de Precisión, por lo que es natural que decidiéramos aprovechar Google Cloud Platform para presentar esta nueva solución de diagnóstico remoto.
+El año pasado, Kanteron Systems se convirtió en [Google Cloud Technology Partner](https://cloud.google.com/partners/) para impulsar nuestra plataforma Medicina de Precisión, por lo que es natural que decidiéramos aprovechar Google Cloud Platform para presentar esta nueva solución de diagnóstico remoto.
 
-Una de las ventajas de usar los servicios de Google Cloud es que pueden manejar volúmenes masivos de información, gracias a su rápido poder de cómputo, almacenamiento escalable y una selección de bases de datos SQL y NoSQL completamente administradas como Bigtable y Datastore. Google Cloud Platform es compatible con [HIPAA](httpss://cloud.google.com/security/compliance/hipaa/). Los clientes pueden almacenar, analizar y obtener información de forma segura de la información de salud, sin tener que preocuparse por la infraestructura subyacente.
+Una de las ventajas de usar los servicios de Google Cloud es que pueden manejar volúmenes masivos de información, gracias a su rápido poder de cómputo, almacenamiento escalable y una selección de bases de datos SQL y NoSQL completamente administradas como Bigtable y Datastore. Google Cloud Platform es compatible con [HIPAA](https://cloud.google.com/security/compliance/hipaa/). Los clientes pueden almacenar, analizar y obtener información de forma segura de la información de salud, sin tener que preocuparse por la infraestructura subyacente.
 
 En lugar de ordenar 'paneles' independientes o pruebas genómicas individuales, o tener que esperar a equipos de bioinformáticos para ejecutar flujos y algoritmos complicados sobre los datos completos del genoma (o exoma) del paciente, Tele-Genómica permite a cualquier médico establecer un análisis de datos genómicos avanzados usando términos de búsqueda simples.
 

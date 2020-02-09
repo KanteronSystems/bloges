@@ -2,12 +2,12 @@
 date: 2019-05-01T00:14:57+00:00
 title: Kanteron presenta la Inteligencia Artificial Flexible
 tags: ["kanteron", "producto"]
-image: "httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
-coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 metaAlignment: center
 coverMeta: out
 
@@ -18,7 +18,7 @@ La configuración de IA permite al usuario elegir el modelo deseado de la lista 
 
 <!--more-->
 
-![Elija su propio conjunto de datos](httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
+![Elija su propio conjunto de datos](https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
 
 IA Flexible es resultado de la colaboración del Laboratorio de Informática Médica de la Queen's University y el Laboratorio de Planificación Quirúrgica de la Escuela de Medicina de Harvard, que permite el despliegue de modelos de IA para una segunda opinión de los radiólogos con la ayuda de IA, al tiempo que proporciona una visualización de imágenes estándar y esquemas de información.
 
@@ -39,7 +39,7 @@ El modelo incluido está capacitado en imágenes de resonancia magnética del Ce
 Puntuación T2 / Puntuación DWI / Puntuación DCE para la Zona Periférica (PZ) o Zona de Transición (TZ) que conduce a PI-RADS Puntuación General - Zona Periférica (a) y Zona de Transición (b).
 
 PI-RADS v2 tiene la intención de estandarizar la presentación de informes de mpMRI para reducir la variabilidad en las interpretaciones y resumir los niveles de riesgo / sospecha de cáncer clínicamente significativo.
-httpss://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
+https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
 Hassanzadeh E, Glazer D, Dunne R, Fennessy F, Harisinghani M, Tempany C. Prostate imaging reporting and data system version 2 (PI-RADS v2): a pictorial review.  Abdominal Radiology. 2016;42(1):278-289. doi:10.1007/s00261-016-0871-z
 
 {{< /alert >}}

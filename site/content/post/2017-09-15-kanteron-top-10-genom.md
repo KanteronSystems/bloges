@@ -2,7 +2,7 @@
 date: 2017-09-15T18:24:16-04:00
 title: Kanteron Systems entre los 10 Mejores Proveedores de Soluciones Genómicas
 tags: ["blog", "premios"]
-image: #"httpss://www.pharmatechoutlook.com/images/logo.png"
+image: #"https://www.pharmatechoutlook.com/images/logo.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
@@ -40,7 +40,7 @@ La solución Kanteron Systems automatiza el aprovisionamiento y administración 
 
 Kanteron Systems es una empresa privada de Tecnología Sanitaria creada en 2005 que ayuda a los proveedores de atención médica a administrar imágenes y datos genómicos de forma efectiva para aplicaciones de medicina de precisión en el punto de atención.
 
-Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](httpss://www.kanteron.com).
+Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](https://www.kanteron.com).
 
 Kanteron Systems es una marca propiedad de Kanteron Systems. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.
 

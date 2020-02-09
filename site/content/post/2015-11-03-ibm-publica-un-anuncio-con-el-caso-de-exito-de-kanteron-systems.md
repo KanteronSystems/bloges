@@ -14,6 +14,6 @@ Esta es la <a href="https://www-03.ibm.com/press/es/es/pressrelease/48066.wss" t
 
 El anuncio, en el que aparecen Juan Tatay, COO y Alvaro Gonzalez, CIO de Kanteron Systems, fue rodado en las oficinas de Kanteron de Valencia y Madrid (España), para el evento <a href="https://www.businessconnect.es" target="_blank">IBM Business Connect</a>.
 
-<a href="httpss://www.youtube.com/watch?v=oOO2dagH_cU" target="_blank">Enlace al vídeo</a>:
+<a href="https://www.youtube.com/watch?v=oOO2dagH_cU" target="_blank">Enlace al vídeo</a>:
   
 <span class="embed-youtube" style="text-align:center; display: block;"></span>

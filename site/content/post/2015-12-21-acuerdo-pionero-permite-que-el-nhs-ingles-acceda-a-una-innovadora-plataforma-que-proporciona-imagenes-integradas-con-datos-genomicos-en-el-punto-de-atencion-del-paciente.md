@@ -24,7 +24,7 @@ Kanteron, junto con algunos de sus socios tecnológicos seleccionados (IBM, Micr
 
 Síganos en Twitter
   
-<a href="httpss://twitter.com/kanteron" target="_blank">@kanteron</a>
+<a href="https://twitter.com/kanteron" target="_blank">@kanteron</a>
 
 _Sobre Kanteron Systems_
 

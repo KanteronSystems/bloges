@@ -2,12 +2,12 @@
 date: 2018-11-13T20:14:57+00:00
 title: Kanteron Systems clasificada entre las mejores startups del mundo
 tags: ["kanteron", "noticias", "premios"]
-image: "httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
-coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -16,7 +16,7 @@ La agencia de calificación [Early Metrics](https://earlymetrics.com/) clasifica
 
 <!--more-->
 
-![Logo](httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
+![Logo](https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
 
 Lanzada en 2014 como agencia independiente, Early Metrics evalúa el potencial de crecimiento de empresas innovadoras.
 Sus calificaciones son gratuitas para las empresas calificadas: no cobran ninguna tarifa a las nuevas empresas para evitar cualquier conflicto de intereses.
