@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS MIGRA SERVIDORES
 date: 2008-06-24T11:15:41+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=46
+guid: https://kanteron.com/blog/?p=46
 permalink: /2008/06/24/kanteron-systems-migra-servidores/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

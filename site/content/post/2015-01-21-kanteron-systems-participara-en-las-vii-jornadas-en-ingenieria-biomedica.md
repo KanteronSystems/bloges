@@ -4,10 +4,10 @@ title: Kanteron Systems participará en las VII Jornadas en Ingeniería Biomédi
 date: 2015-01-21T17:43:28+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=1940
+guid: https://blog.kanteron.com/es/?p=1940
 permalink: /2015/01/21/kanteron-systems-participara-en-las-vii-jornadas-en-ingenieria-biomedica/
 ---
-La Universitat Politècnica de València (UPV) y la Universitat de València (UV), con el patrocinio del Instituto de Biomecánica (IBV), organizan las <a title="http://www.mibvalencia.es/web.php?lang=es&id=28&title=Jornadas,-Seminarios-y-Conferencias" href="http://www.mibvalencia.es/web.php?lang=es&id=28&title=Jornadas,-Seminarios-y-Conferencias" target="_blank">VII Jornadas en Ingeniería Biomédica</a> que tendrán lugar del 3 al 6 de febrero en Valencia. Estas Jornadas se enmarcan dentro de las actividades programadas por el <a title="http://www.mibvalencia.es/" href="http://www.mibvalencia.es/" target="_blank">Máster Interuniversitario en Ingeniería Biomédica</a> que se imparte conjuntamente en las dos universidades públicas valencianas.
+La Universitat Politècnica de València (UPV) y la Universitat de València (UV), con el patrocinio del Instituto de Biomecánica (IBV), organizan las <a title="https://www.mibvalencia.es/web.php?lang=es&id=28&title=Jornadas,-Seminarios-y-Conferencias" href="https://www.mibvalencia.es/web.php?lang=es&id=28&title=Jornadas,-Seminarios-y-Conferencias" target="_blank">VII Jornadas en Ingeniería Biomédica</a> que tendrán lugar del 3 al 6 de febrero en Valencia. Estas Jornadas se enmarcan dentro de las actividades programadas por el <a title="https://www.mibvalencia.es/" href="https://www.mibvalencia.es/" target="_blank">Máster Interuniversitario en Ingeniería Biomédica</a> que se imparte conjuntamente en las dos universidades públicas valencianas.
 
 La séptima edición de estas jornadas contará con expertos en investigación biomédica, transferencia de tecnología sanitaria y empresas del sector de bioingeniería.
 

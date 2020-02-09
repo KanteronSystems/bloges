@@ -4,7 +4,7 @@ title: SEGÚN UN ESTUDIO, KANTERON SYSTEMS TIENE LOS PACS MÁS RÁPIDOS
 date: 2008-04-24T11:18:43+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=48
+guid: https://kanteron.com/blog/?p=48
 permalink: /2008/04/24/segun-un-estudio-kanteron-systems-tiene-los-pacs-mas-rapidos/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
@@ -16,5 +16,5 @@ permalink: /2008/04/24/segun-un-estudio-kanteron-systems-tiene-los-pacs-mas-rapi
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://farm3.static.flickr.com/2007/2437721655_63fa06854d.jpg?v=0" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://farm3.static.flickr.com/2007/2437721655_63fa06854d.jpg?v=0" /></span>
 </p>

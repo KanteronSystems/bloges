@@ -4,7 +4,7 @@ title: KANTERON ELEGIDA ENTRE LAS 3 PRIMERAS DEL MUNDO
 date: 2009-06-15T10:40:40+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=33
+guid: https://kanteron.com/blog/?p=33
 permalink: /2009/06/15/kanteron-elegida-entre-las-3-primeras-del-mundo/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

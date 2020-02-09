@@ -4,7 +4,7 @@ date: 2016-11-08T09:01:04+00:00
 author: kanteron
 ---
 
-En su décimos aniversario, <a href="http://www.svc2uk.com/10th-svc2uk-announces-2016-scale-up-club/">Silicon Valley Comes to the UK (‘SVC2UK’) ha invitado a 50 empresas tecnológicas del Reino Unido</a> a unirse al ‘<a href="http://www.svc2uk.com/2016-scale-up-club/">Scale Up Club</a>’ 2016. Una de esas compañías es Kanteron Systems.
+En su décimos aniversario, <a href="https://www.svc2uk.com/10th-svc2uk-announces-2016-scale-up-club/">Silicon Valley Comes to the UK (‘SVC2UK’) ha invitado a 50 empresas tecnológicas del Reino Unido</a> a unirse al ‘<a href="https://www.svc2uk.com/2016-scale-up-club/">Scale Up Club</a>’ 2016. Una de esas compañías es Kanteron Systems.
 
 <!--more-->
 

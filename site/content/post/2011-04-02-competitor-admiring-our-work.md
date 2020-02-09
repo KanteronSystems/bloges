@@ -4,7 +4,7 @@ title: Competitor admiring our work
 date: 2011-04-02T00:44:07+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=389
+guid: https://www.kanteron.com/blog/?p=389
 permalink: /2011/04/02/competitor-admiring-our-work/
 ---
 Historia real (anonimizada para evitar problemas a nadie) ocurrida hoy mismo en un hospital de Madrid, extraída de un informe de uno de nuestros técnicos.

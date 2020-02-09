@@ -4,10 +4,10 @@ title: Innovation barriers in healthcare technology
 date: 2012-04-22T16:18:26+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=656
+guid: https://www.kanteron.com/blog/?p=656
 permalink: /2012/04/22/innovation-barriers-in-healthcare-technology/
 ---
-De un <a title="http://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" href="http://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" target="_blank">artículo</a> de ReadWriteWeb:
+De un <a title="https://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" href="https://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" target="_blank">artículo</a> de ReadWriteWeb:
 
 > El Dr. J. Deane Waldman, Profesor de Peiatría, Patología, y Ciencia de la Decisión (sic) de la Universidad de Nuevo Mexico dijo que la industria tiene tres desincentivos para la innovación que parcialmente suprimen el efecto de la ley de Moore:
 > 

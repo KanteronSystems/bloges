@@ -4,7 +4,7 @@ title: CONFERENCIA EN UNIVERSIDAD EUROPEA DE MADRID
 date: 2008-04-17T11:20:06+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=49
+guid: https://kanteron.com/blog/?p=49
 permalink: /2008/04/17/conferencia-en-universidad-europea-de-madrid/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
@@ -16,5 +16,5 @@ permalink: /2008/04/17/conferencia-en-universidad-europea-de-madrid/
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://farm3.static.flickr.com/2058/2491284561_d4022029e0_m.jpg" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://farm3.static.flickr.com/2058/2491284561_d4022029e0_m.jpg" /></span>
 </p>

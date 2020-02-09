@@ -4,7 +4,7 @@ title: Kanteron une fuerzas con Hitachi Data Systems para avanzar la medicina pe
 date: 2015-04-08T19:53:44+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2021
+guid: https://blog.kanteron.com/es/?p=2021
 permalink: /2015/04/08/kanteron-une-fuerzas-con-hitachi-data-systems-para-avanzar-la-medicina-personalizada/
 image: /wp-content/uploads/sites/2/2014/04/Hitachi.png
 ---
@@ -49,11 +49,11 @@ image: /wp-content/uploads/sites/2/2014/04/Hitachi.png
 </p>
 
 <p class="p6">
-  <a title="http://www.hds.com/solutions/industries/healthcare/" href="http://www.hds.com/solutions/industries/healthcare/" target="_blank">http://www.hds.com/solutions/industries/healthcare/</a>
+  <a title="https://www.hds.com/solutions/industries/healthcare/" href="https://www.hds.com/solutions/industries/healthcare/" target="_blank">https://www.hds.com/solutions/industries/healthcare/</a>
 </p>
 
 <p class="p6">
-  <a title="http://www.kanteron.com" href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>
+  <a title="https://www.kanteron.com" href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>
 </p>
 
 <p class="p6">

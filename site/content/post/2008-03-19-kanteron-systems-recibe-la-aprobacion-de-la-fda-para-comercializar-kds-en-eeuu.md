@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS RECIBE LA APROBACIÓN DE LA FDA PARA COMERCIALIZAR KDS E
 date: 2008-03-19T11:25:08+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=53
+guid: https://kanteron.com/blog/?p=53
 permalink: /2008/03/19/kanteron-systems-recibe-la-aprobacion-de-la-fda-para-comercializar-kds-en-eeuu/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

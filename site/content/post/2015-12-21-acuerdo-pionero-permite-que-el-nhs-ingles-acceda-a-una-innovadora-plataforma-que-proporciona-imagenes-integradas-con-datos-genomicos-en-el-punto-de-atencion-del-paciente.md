@@ -4,11 +4,11 @@ title: Acuerdo pionero permite que el NHS inglés acceda a una innovadora plataf
 date: 2015-12-21T16:01:17+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2346
+guid: https://blog.kanteron.com/es/?p=2346
 permalink: /2015/12/21/acuerdo-pionero-permite-que-el-nhs-ingles-acceda-a-una-innovadora-plataforma-que-proporciona-imagenes-integradas-con-datos-genomicos-en-el-punto-de-atencion-del-paciente/
 image: /wp-content/uploads/sites/2/2015/07/NHS-England_332x163.jpg
 ---
-<img class=" wp-image-2220 aligncenter" src="http://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg" alt="NHS-England_332x163" width="239" height="117" />
+<img class=" wp-image-2220 aligncenter" src="https://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg" alt="NHS-England_332x163" width="239" height="117" />
 
 Kanteron Systems, líder de sistemas de información sanitaria, en colaboración con el Sistema Nacional de Salud de Inglaterra (NHS), se ha comprometido a permitir a todo el NHS acceso irrestricto a la plataforma de integración de imágenes médicas y datos genómicos de Kanteron bajo la custodia de la comunidad clínica OpenPACS Code 4 Health del NHS. El acuerdo fue anunciado en la RSNA – la mayor reunión del mundo de profesionales de la imagen médica – en Chicago (EE.UU.).
 
@@ -24,13 +24,13 @@ Kanteron, junto con algunos de sus socios tecnológicos seleccionados (IBM, Micr
 
 Síganos en Twitter
   
-<a href="https://twitter.com/kanteron" target="_blank">@kanteron</a>
+<a href="httpss://twitter.com/kanteron" target="_blank">@kanteron</a>
 
 _Sobre Kanteron Systems_
 
 Kanteron Systems es una compañía privada de tecnología sanitaria – Informática Biomédica fundada en 2005 que ayuda a los proveedores de salud y los proveedores de tecnología a gestionar imágenes y datos genómicos con eficacia para aplicaciones de medicina de precisión en el punto de atención del paciente. Con oficinas en Nueva York (EE. UU.), Londres (Reino Unido), Lima (Perú), y sede europea en Valencia (España), las soluciones de Kanteron Systems ya se han desplegado cientos de veces en países de todo el mundo, en algunos de las redes de salud más grandes.
 
-Más información en: <a href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>
+Más información en: <a href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>
   
 Contacto de prensa:
   

@@ -4,12 +4,12 @@ title: Kanteron Systems colaborará con el I curso de postgrado en Imagen Cient�
 date: 2014-08-04T07:07:45+00:00
 author: jcortell
 layout: post
-guid: http://blog.kanteron.com/es/?p=1797
+guid: https://blog.kanteron.com/es/?p=1797
 permalink: /2014/08/04/kanteron-systems-colaborara-con-el-i-curso-de-postgrado-en-imagen-cientifica-del-mundo/
 panels_data:
   - 'a:0:{}'
 ---
-[<img class="aligncenter" src="http://www.aecomunicacioncientifica.org/wp-content/uploads/imagen-cientifica.jpg" alt="Poster" width="800" height="400" />](http://www.aecomunicacioncientifica.org/curso-internacional-de-imagen-cientifica-becas-para-preinscritos-hasta-el-31-de-julio/)
+[<img class="aligncenter" src="https://www.aecomunicacioncientifica.org/wp-content/uploads/imagen-cientifica.jpg" alt="Poster" width="800" height="400" />](https://www.aecomunicacioncientifica.org/curso-internacional-de-imagen-cientifica-becas-para-preinscritos-hasta-el-31-de-julio/)
   
 Kanteron Systems will collaborate with the world‘s first _ Scientific Photography Postgraduate course_ at the University of Alcala (Spain) October 6 to November 21, 2014.
 
@@ -19,8 +19,8 @@ En el curso participan 20 profesores seleccionados entre los mejores especialist
 
 Preinscipción oficial:
   
-<a title="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual#cod_estudio=14170</a>
+<a title="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual#cod_estudio=14170</a>
 
 Información detallada sobre el contenido, profesores y horarios:
   
-<a title="http://www.luismonje.com/aprender/cursos-presenciales/" href="http://www.luismonje.com/aprender/cursos-presenciales/" target="_blank">http://www.luismonje.com/aprender/cursos-presenciales/</a>
+<a title="https://www.luismonje.com/aprender/cursos-presenciales/" href="https://www.luismonje.com/aprender/cursos-presenciales/" target="_blank">https://www.luismonje.com/aprender/cursos-presenciales/</a>

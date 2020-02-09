@@ -4,7 +4,7 @@ title: John Memarian se incorpora a Kanteron como Presidente y Director Comercia
 date: 2016-02-22T13:02:10+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2388
+guid: https://blog.kanteron.com/es/?p=2388
 permalink: /2016/02/22/john-memarian-se-une-a-kanteron-como-presidente-y-director-comercial/
 image: /wp-content/uploads/sites/2/2015/07/Handshake.jpg
 ---

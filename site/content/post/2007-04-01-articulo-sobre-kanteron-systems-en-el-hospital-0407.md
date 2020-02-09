@@ -4,7 +4,7 @@ title: ARTÍCULO SOBRE KANTERON SYSTEMS EN EL HOSPITAL (04/07)
 date: 2007-04-01T11:35:06+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=61
+guid: https://kanteron.com/blog/?p=61
 permalink: /2007/04/01/articulo-sobre-kanteron-systems-en-el-hospital-0407/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

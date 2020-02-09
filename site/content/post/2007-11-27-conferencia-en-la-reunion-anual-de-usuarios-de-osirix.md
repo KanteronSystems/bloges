@@ -4,7 +4,7 @@ title: CONFERENCIA EN LA REUNIÓN ANUAL DE USUARIOS DE OSIRIX
 date: 2007-11-27T11:27:51+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=55
+guid: https://kanteron.com/blog/?p=55
 permalink: /2007/11/27/conferencia-en-la-reunion-anual-de-usuarios-de-osirix/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

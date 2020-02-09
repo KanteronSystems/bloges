@@ -4,7 +4,7 @@ title: KANTERON RECIBE CERTIFICACIÓN ISO 9001
 date: 2008-07-11T11:14:25+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=45
+guid: https://kanteron.com/blog/?p=45
 permalink: /2008/07/11/kanteron-recibe-certificacion-iso-9001/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
@@ -20,5 +20,5 @@ permalink: /2008/07/11/kanteron-recibe-certificacion-iso-9001/
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://farm3.static.flickr.com/2220/2732998862_b772a16dd6_m.jpg" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://farm3.static.flickr.com/2220/2732998862_b772a16dd6_m.jpg" /></span>
 </p>

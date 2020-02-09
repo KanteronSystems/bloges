@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS TRASLADA SU SEDE
 date: 2008-02-01T11:26:28+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=54
+guid: https://kanteron.com/blog/?p=54
 permalink: /2008/02/01/kanteron-systems-traslada-su-sede/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

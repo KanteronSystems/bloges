@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS NOMINADA PARA DOS PREMIOS INNOVADORES DEL AÑO 2007 DEL 
 date: 2007-06-22T11:31:34+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=58
+guid: https://kanteron.com/blog/?p=58
 permalink: /2007/06/22/kanteron-systems-nominada-para-dos-premios-innovadores-del-ano-2007-del-wall-street-journal/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

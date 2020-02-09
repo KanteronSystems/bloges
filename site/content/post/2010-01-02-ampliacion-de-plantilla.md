@@ -4,11 +4,11 @@ title: Ampliación de plantilla
 date: 2010-01-02T08:54:19+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=32
+guid: https://kanteron.com/blog/?p=32
 permalink: /2010/01/02/ampliacion-de-plantilla/
 ---
 <p style="text-align: left">
-  <img src="http://farm5.static.flickr.com/4119/4744403942_6db362b3c6.jpg" align="absmiddle" height="375" width="500" alt="Kanteron crew, Valencia" />
+  <img src="https://farm5.static.flickr.com/4119/4744403942_6db362b3c6.jpg" align="absmiddle" height="375" width="500" alt="Kanteron crew, Valencia" />
 </p>
 
 <p style="text-align: left">

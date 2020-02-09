@@ -2,12 +2,12 @@
 date: 2017-07-26T10:24:16-04:00
 title: Kanteron declarada empresa innovadora
 tags: ["blog", "premios"]
-image: "http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png"
+image: "https://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
-coverImage: http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
+thumbnailImage: https://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
+coverImage: https://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png
 metaAlignment: center
 coverMeta: out
 ---

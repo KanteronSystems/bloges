@@ -4,7 +4,7 @@ title: Kanteron Systems aprueba la inspección de la FDA y la auditoría ISO un 
 date: 2015-05-08T09:07:15+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2039
+guid: https://blog.kanteron.com/es/?p=2039
 permalink: /2015/05/08/kanteron-systems-aprueba-la-inspeccion-de-la-fda-y-la-auditoria-iso/
 image: /wp-content/uploads/sites/2/2013/06/FDAInspection2013-672x372.jpg
 ---

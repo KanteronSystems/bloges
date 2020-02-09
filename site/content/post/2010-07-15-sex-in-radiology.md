@@ -4,7 +4,7 @@ title: Sex, art, anatomy and radiology
 date: 2010-07-15T19:24:39+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=110
+guid: https://kanteron.com/blog/?p=110
 permalink: /2010/07/15/sex-in-radiology/
 ---
-<a title="http://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html" href="http://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html" target="_blank">http://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html</a><a title="http://streetanatomy.com/" href="http://streetanatomy.com/" target="_blank">http://streetanatomy.com/</a>
+<a title="https://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html" href="https://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html" target="_blank">https://nottotallyrad.blogspot.com/2008/04/radiology-comes-through-for-sexual.html</a><a title="https://streetanatomy.com/" href="https://streetanatomy.com/" target="_blank">https://streetanatomy.com/</a>

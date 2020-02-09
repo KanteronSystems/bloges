@@ -4,7 +4,7 @@ title: NHS de Inglaterra selecciona a Kanteron Systems para la segunda ronda de 
 date: 2015-07-16T08:57:32+00:00
 author: jcortell
 layout: post
-guid: http://blog.kanteron.com/es/?p=2249
+guid: https://blog.kanteron.com/es/?p=2249
 permalink: /2015/07/16/nhs-de-inglaterra-selecciona-a-kanteron-systems-para-la-segunda-ronda-de-prueba-de-innovacion-combinada/
 image: /wp-content/uploads/sites/2/2015/07/NHS-England_332x163.jpg
 ---

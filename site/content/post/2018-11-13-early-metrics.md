@@ -2,21 +2,21 @@
 date: 2018-11-13T20:14:57+00:00
 title: Kanteron Systems clasificada entre las mejores startups del mundo
 tags: ["kanteron", "noticias", "premios"]
-image: "https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
+image: "httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
-coverImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
-La agencia de calificación [Early Metrics](http://earlymetrics.com/) clasifica a Kanteron Systems en el top 4% de Tecnología Sanitaria y el 7% de tecnología general (en su logo redondean al 10%) de las más de 2.000 empresas tecnológicas calificadas por ellos en todo el mundo desde 2014.
+La agencia de calificación [Early Metrics](https://earlymetrics.com/) clasifica a Kanteron Systems en el top 4% de Tecnología Sanitaria y el 7% de tecnología general (en su logo redondean al 10%) de las más de 2.000 empresas tecnológicas calificadas por ellos en todo el mundo desde 2014.
 
 <!--more-->
 
-![Logo](https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
+![Logo](httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
 
 Lanzada en 2014 como agencia independiente, Early Metrics evalúa el potencial de crecimiento de empresas innovadoras.
 Sus calificaciones son gratuitas para las empresas calificadas: no cobran ninguna tarifa a las nuevas empresas para evitar cualquier conflicto de intereses.

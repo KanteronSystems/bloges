@@ -4,7 +4,7 @@ title: 'Kanteron and HistoIndex Announce Collaboration to Expand Digital Patholo
 date: 2013-07-27T21:47:51+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1214
+guid: https://www.kanteron.com/blog/?p=1214
 permalink: /2013/07/27/kanteron-and-histoindex-announce-collaboration-to-expand-digital-pathology-in-asian-ehr-pacs-markets/
 image: /wp-content/uploads/sites/2/2013/07/HistoIndex_0.jpg
 ---
@@ -35,13 +35,13 @@ dijo el doctor Gideon Ho, Co-fundador y Director General de HistoIndex.
 > "**La integración de KMIIS de Kanteron con Genesis ™ de HistoIndex permite a nuestros clientes la máxima resolución de telepatología en tiempo real y un registro estándar completo del espectro total de las imágenes médicas del paciente**. Siendo Asia un fuerte defensor de este cambio global en el paso a la gestión de la historia clínica electrónica y apostando más adelante por sistemas basados en la nube, **HistoIndex confía en que la colaboración entre ambas compañías beneficiará y cambiará la vida de millones de pacientes**".
 
 <p style="text-align: center">
-  Acerca Kanteron Systems (<a title="http://www.kanteron.com" href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>)
+  Acerca Kanteron Systems (<a title="https://www.kanteron.com" href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>)
 </p>
 
 Kanteron Systems es una empresa líder en software de código abierto fundada en 2005, especializada en imagen médica. Nuestra galardonada solución tecnológica permite telepatología a resolución completa en tiempo real empleando el formato estándar de imagen DICOM (pioneros en el sector), así como el almacenamiento y flujo de trabajo de la imagen radiológica, y la integración de datos sanitarios. Con oficinas en Nueva York (EE. UU.), Lima (Perú), y la sede central en Valencia (España), Kanteron Systems provee soluciones avanzadas de software de imagen médica a alguno de los sistemas de salud más grandes del mundo (como el NHS en el Reino Unido, ISSSTE en Mexico, y EsSalud en Perú).
 
 <p style="text-align: center">
-  Acerca HistoIndex (<a title="http://www.histoindex.com" href="http://www.histoindex.com" target="_blank">http://www.histoindex.com</a>)
+  Acerca HistoIndex (<a title="https://www.histoindex.com" href="https://www.histoindex.com" target="_blank">https://www.histoindex.com</a>)
 </p>
 
 HistoIndex es una empresa spin-off de la Agencia de Ciencia, Investigación y Tecnología (A * STAR) de Singapur. La compañía está involucrada en el desarrollo, fabricación y venta de equipos médicos de imagen óptica en todo el mundo, con oficinas en Singapur (sede), Beijing (China) y Londres (Reino Unido) para el diagnóstico y tratamiento de la fibrosis y el cáncer. Con base en soluciones revolucionarias de imagen, sus productos han abierto las puertas a nuevos estándares médicos que benefician la I+D clínica, aceleran el desarrollo de medicamentos farmacéuticos y tratamientos, así como ayudan al diagnóstico clínico.

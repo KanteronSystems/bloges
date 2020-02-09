@@ -4,12 +4,12 @@ title: 'Listening to...'
 date: 2011-09-23T11:33:16+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=489
+guid: https://www.kanteron.com/blog/?p=489
 permalink: /2011/09/23/listening-to/
 ---
 Nos gusta porque denuncia las mismas cuestiones contra las que luchamos: posición de control abusiva, ya sea por parte de multinacionales o de gobiernos.
 
-<a title="http://youtu.be/A1AQaXUCboQ" href="http://youtu.be/A1AQaXUCboQ" target="_blank">The Jams: We make the standards</a>
+<a title="https://youtu.be/A1AQaXUCboQ" href="https://youtu.be/A1AQaXUCboQ" target="_blank">The Jams: We make the standards</a>
 
 Oh we make the standards and we make the rules
   

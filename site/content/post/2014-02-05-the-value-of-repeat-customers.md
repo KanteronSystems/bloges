@@ -4,7 +4,7 @@ title: El valor de clientes habituales
 date: 2014-02-05T23:20:43+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1413
+guid: https://www.kanteron.com/blog/?p=1413
 permalink: /2014/02/05/the-value-of-repeat-customers/
 image: /wp-content/uploads/sites/2/2013/03/AD3-672x372.jpg
 ---

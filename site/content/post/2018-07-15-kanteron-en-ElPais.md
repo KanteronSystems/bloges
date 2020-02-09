@@ -2,12 +2,12 @@
 date: 2018-07-15T20:14:57+00:00
 title: Artículo a toda página de Kanteron Systems en el periódico de mayor circulación de España, El País
 tags: ["kanteron", "noticias"]
-image: "http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
-coverImage: http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -16,4 +16,4 @@ El País, periódico generalista de mayor circulación de España (y con mayor p
 
 <!--more-->
 
-[El artículo se encuentra disponible online aquí](https://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)
+[El artículo se encuentra disponible online aquí](httpss://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)

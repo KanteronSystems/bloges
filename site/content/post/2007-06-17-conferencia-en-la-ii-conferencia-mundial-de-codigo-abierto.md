@@ -4,7 +4,7 @@ title: CONFERENCIA EN LA II CONFERENCIA MUNDIAL DE CÓDIGO ABIERTO
 date: 2007-06-17T11:32:43+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=59
+guid: https://kanteron.com/blog/?p=59
 permalink: /2007/06/17/conferencia-en-la-ii-conferencia-mundial-de-codigo-abierto/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

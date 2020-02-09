@@ -4,10 +4,10 @@ title: 'Kanteron Systems named "National Champion" and through to final round of
 date: 2012-11-01T14:58:08+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=851
+guid: https://www.kanteron.com/blog/?p=851
 permalink: /2012/11/01/kanteron-systems-named-national-champion-and-through-to-final-round-of-european-business-awards/
 ---
-Los European Business Awards ha anunciado hoy que Kanteron Systems representará a España como Campeón Nacional en el prestigioso programa Premios Empresariales Europeos 2012/13 (<a title="http://www.businessawardseurope.com" href="http://www.businessawardseurope.com" target="_blank">European Business Awards</a>). Kanteron Systems ahora competirán por el codiciado estatus _Ruban d‘Honneur_ en la próxima ronda de la competición.
+Los European Business Awards ha anunciado hoy que Kanteron Systems representará a España como Campeón Nacional en el prestigioso programa Premios Empresariales Europeos 2012/13 (<a title="https://www.businessawardseurope.com" href="https://www.businessawardseurope.com" target="_blank">European Business Awards</a>). Kanteron Systems ahora competirán por el codiciado estatus _Ruban d‘Honneur_ en la próxima ronda de la competición.
 
 Este año, por primera vez, los participantes en los Premios Europeos presentaron un caso de estudio en video para su votación en línea. Además, un prestigioso panel de jueces eligió las organizaciones que muestran innovación, excelencia empresarial y sostenibilidad.
 
@@ -37,4 +37,4 @@ Reacciones al premio.
 
 Desde ahora y hasta enero de 2013, los Campeones Nacionales se volverá a evaluar por un tercer panel de jueces compuesto por líderes empresariales de ámbito europeo, académicos y empresarios que se otorgará a las organizaciones más importantes del codiciado _Ruban d‘Honneur_. Finalmente, después de las presentaciones cara a cara en Düsseldoff (Alemania) en febrero 2013, los nombres de los ganadores se darán a conocer en una ceremonia de gala de entrega de premios en abril de 2013.
 
-<a href="http://www.kanteron.com/blog/entrepreneurship/2012/11/kanteron-systems-named-national-champion-and-through-to-final-round-of-european-business-awards/attachment/eba_national-champ_logo-2012-13/" rel="attachment wp-att-852"><img class="aligncenter" title="EBA_National Champ_Logo 2012-13" src="http://blog.kanteron.com/es/wp-content/uploads/sites/2/2012/11/EBA_National-Champ_Logo-2012-13.png" alt="" width="181" height="422" /></a>
+<a href="https://www.kanteron.com/blog/entrepreneurship/2012/11/kanteron-systems-named-national-champion-and-through-to-final-round-of-european-business-awards/attachment/eba_national-champ_logo-2012-13/" rel="attachment wp-att-852"><img class="aligncenter" title="EBA_National Champ_Logo 2012-13" src="https://blog.kanteron.com/es/wp-content/uploads/sites/2/2012/11/EBA_National-Champ_Logo-2012-13.png" alt="" width="181" height="422" /></a>

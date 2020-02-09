@@ -4,11 +4,11 @@ title: Alcanzado acuerdo KDS para mamo con Totoku
 date: 2009-11-27T08:22:50+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=30
+guid: https://kanteron.com/blog/?p=30
 permalink: /2009/11/27/alcanzado-acuerdo-kds-para-mamo-con-totoku/
 ---
 <p style="margin-top: 0px;margin-right: 0px;margin-bottom: 18px;margin-left: 18px;line-height: 18px;font: normal normal normal 12px/normal 'Lucida Grande';color: #999999">
-  Tras el éxito cosechado por <a href="http://www.kanteron.com/KanteronSystemsES/Producto/Paginas/KDS.html"><span style="color: #aaaaaa"><strong>KDS</strong></span></a>, el software de diagnóstico multimodal de Kanteron Systems, tenemos el orgullo de anunciar un acuerdo con la compañía de monitores japonesa Totoku alcanzado durante la RSNA en Chicago (EEUU).
+  Tras el éxito cosechado por <a href="https://www.kanteron.com/KanteronSystemsES/Producto/Paginas/KDS.html"><span style="color: #aaaaaa"><strong>KDS</strong></span></a>, el software de diagnóstico multimodal de Kanteron Systems, tenemos el orgullo de anunciar un acuerdo con la compañía de monitores japonesa Totoku alcanzado durante la RSNA en Chicago (EEUU).
 </p>
 
 <p style="margin-top: 0px;margin-right: 0px;margin-bottom: 18px;margin-left: 18px;line-height: 18px;font: normal normal normal 12px/normal 'Lucida Grande';color: #999999">

@@ -4,7 +4,7 @@ title: 'Kanteron DirectTransfer transforma radicalmente la conectividad de dispo
 date: 2016-02-29T01:27:55+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2401
+guid: https://blog.kanteron.com/es/?p=2401
 permalink: /2016/02/29/kanteron-directtransfer-transforma-radicalmente-la-conectividad-de-dispositivos-de-imagen-medica-ya-no-haran-falta-cortafuegos-ssl-o-nat/
 image: /wp-content/uploads/sites/2/2015/06/KanteroniPad.jpg
 ---

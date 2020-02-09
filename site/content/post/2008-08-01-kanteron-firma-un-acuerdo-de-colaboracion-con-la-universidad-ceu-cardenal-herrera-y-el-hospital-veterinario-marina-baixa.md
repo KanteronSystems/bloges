@@ -4,7 +4,7 @@ title: KANTERON FIRMA UN ACUERDO DE COLABORACIÓN CON LA UNIVERSIDAD CEU CARDENA
 date: 2008-08-01T11:10:54+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=43
+guid: https://kanteron.com/blog/?p=43
 permalink: /2008/08/01/kanteron-firma-un-acuerdo-de-colaboracion-con-la-universidad-ceu-cardenal-herrera-y-el-hospital-veterinario-marina-baixa/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
@@ -28,5 +28,5 @@ permalink: /2008/08/01/kanteron-firma-un-acuerdo-de-colaboracion-con-la-universi
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <img src="//FCB96646-34EE-4755-AA13-18D7F75E32EB/logoceu75uch.gif" alt="logoceu75uch.gif" />        <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://www.vetermed.com/imag/general/clinica1.jpg" /><span style="font-family: Helvetica, 'Times New Roman', Times, serif;font-size: 12px" class="Apple-style-span"> </span></span>
+  <img src="//FCB96646-34EE-4755-AA13-18D7F75E32EB/logoceu75uch.gif" alt="logoceu75uch.gif" />        <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://www.vetermed.com/imag/general/clinica1.jpg" /><span style="font-family: Helvetica, 'Times New Roman', Times, serif;font-size: 12px" class="Apple-style-span"> </span></span>
 </p>

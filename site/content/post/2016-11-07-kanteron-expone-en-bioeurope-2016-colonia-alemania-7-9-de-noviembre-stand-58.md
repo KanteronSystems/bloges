@@ -4,7 +4,7 @@ date: 2016-11-07T18:02:34+00:00
 author: kanteron
 ---
 
-Kanteron Systems se encuentra entre [las 7 empresas de salud digital de alto crecimiento](http://gotogrow.london/insight-and-case-studies/bioeurope-meet-the-companies) elegidas por el programa [Programa Internacional del Alcalde de Londres](http://gotogrow.london/), [MedCity](http://www.medcityhq.com/) y [London and Partners](http://www.londonandpartners.com/), para exponer en <a href="https://ebdgroup.knect365.com/bioeurope/" target="_blank">BioEurope 2016 Colonia</a> (Alemania).
+Kanteron Systems se encuentra entre [las 7 empresas de salud digital de alto crecimiento](https://gotogrow.london/insight-and-case-studies/bioeurope-meet-the-companies) elegidas por el programa [Programa Internacional del Alcalde de Londres](https://gotogrow.london/), [MedCity](https://www.medcityhq.com/) y [London and Partners](https://www.londonandpartners.com/), para exponer en <a href="httpss://ebdgroup.knect365.com/bioeurope/" target="_blank">BioEurope 2016 Colonia</a> (Alemania).
 
 <!--more-->
 

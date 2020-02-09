@@ -2,18 +2,18 @@
 date: 2019-02-28T01:14:57+00:00
 title: Centro Nacional de Investigaciones Oncológicas invita a Kanteron Systems a dar una ponencia en el evento de la Red Europea de Cooperación Oncológica
 tags: ["kanteron", "noticias", "eventos"]
-image: "https://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg"
+image: "httpss://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg
-coverImage: https://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg
+thumbnailImage: httpss://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg
+coverImage: httpss://www.interreg-sudoe.eu/imagenes/Eventos/43867CCB-D05E-340D-DEEF-8ACFB0C6C01F.jpg/resizeMod/690/0/imagen.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
 
-El [Centro Nacional de Investigaciones Oncológicas de España - CNIO](https://www.cnio.es/en/), el [mejor de Europa](https://www.cnio.es/noticias/noticias-cnio/el-cnio-lidera-el-ranking-de-centros-de-investigacion-del-cancer-en-europa/) y 4° del mundo según la revista Nature, ha invitado a Kanteron Systems a dar un a ponencia dentro del [Taller sobre Tecnologia Innovadora para la Salud](https://www.cnio.es/eventos/onconet-sudoe-workshop-on-innovative-it-for-healthcare-the-patient-journey-information-technologies-focused-on-the-cancer-patient/): "El viaje del paciente: Tecnologías de la Información centradas en el paciente de cáncer", del evento de la [Red Europea de Cooperación en Oncología ONCONET-SUDOE](https://www.onconet-sudoe.eu/es) que tendrá lugar en el Auditorio del CNIO (Madrid), los días 3 y 4 de abril 2019.
+El [Centro Nacional de Investigaciones Oncológicas de España - CNIO](httpss://www.cnio.es/en/), el [mejor de Europa](httpss://www.cnio.es/noticias/noticias-cnio/el-cnio-lidera-el-ranking-de-centros-de-investigacion-del-cancer-en-europa/) y 4° del mundo según la revista Nature, ha invitado a Kanteron Systems a dar un a ponencia dentro del [Taller sobre Tecnologia Innovadora para la Salud](httpss://www.cnio.es/eventos/onconet-sudoe-workshop-on-innovative-it-for-healthcare-the-patient-journey-information-technologies-focused-on-the-cancer-patient/): "El viaje del paciente: Tecnologías de la Información centradas en el paciente de cáncer", del evento de la [Red Europea de Cooperación en Oncología ONCONET-SUDOE](httpss://www.onconet-sudoe.eu/es) que tendrá lugar en el Auditorio del CNIO (Madrid), los días 3 y 4 de abril 2019.
 
 <!--more-->
 

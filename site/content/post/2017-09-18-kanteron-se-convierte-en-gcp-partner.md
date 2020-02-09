@@ -2,7 +2,7 @@
 date: 2017-09-18T10:24:16-04:00
 title: Kanteron Systems se convierte en socio tecnológico de Google Cloud para la medicina de precisión
 tags: ["blog", "premios"]
-image: #"http://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
+image: #"https://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
@@ -26,7 +26,7 @@ Según la firma de analistas Gartner, para el año 2021, aproximadamente el 25% 
 
 "La combinación de la tecnología pionera de Kanteron Systems y Google Cloud libera a los equipos de informática de los hospitales de la sobrecarga de gestión de infraestructura creciente o de la integración manual de datos de pacientes y resultados de pruebas", dijo Jorge Cortell, fundador y CEO de Kanteron Systems. "Kanteron Systems en la nube de Google permite a los médicos concentrarse en brindar el mejor cuidado con nuestras herramientas incorporadas de seguridad, coordinación y colaboración avanzadas".
 
-Comparte esto en Twitter: @kanteron se convierte en Socio de Tecnología Estratégico de @Google_Cloud para la #Medicinadeprecisión - http://www.kanteron.com
+Comparte esto en Twitter: @kanteron se convierte en Socio de Tecnología Estratégico de @Google_Cloud para la #Medicinadeprecisión - https://www.kanteron.com
 
 "Estamos particularmente entusiasmados con el enorme potencial de las capacidades de manejo de datos clínicos y de imágenes de Kanteron Systems, combinadas con las soluciones de Inteligencia Artificial y Nube de Google", dijo John Memarian, Presidente y Director Comercial de Kanteron Systems "que permitirá el desarrollo acelerado de nuevas tecnologías con aplicaciones sanitarias".
 
@@ -36,7 +36,7 @@ Diseñada para interoperar con sistemas sanitarios existentes (PACS, RIS, HCE, L
 
 Kanteron Systems es una empresa privada de Tecnología Sanitaria creada en 2005 que ayuda a los proveedores de atención médica a administrar imágenes y datos genómicos de forma efectiva para aplicaciones de medicina de precisión en el punto de atención.
 
-Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](https://www.kanteron.com).
+Las soluciones pioneras de Kanteron Systems ya se han desplegado más de 500 veces en 12 países, en algunas de las mayores redes de asistencia sanitaria del mundo, como el Colegio Americano de Radiología en Estados Unidos, NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México o EsSalud en Perú. Obtenga más información sobre nosotros: [www.kanteron.com](httpss://www.kanteron.com).
 
 Kanteron Systems es una marca propiedad de Kanteron Systems. Todas las demás marcas comerciales son propiedad de sus respectivos propietarios.
 
@@ -50,10 +50,10 @@ jmemarian@kanteron.com
 
 ---
 
-<a name="footnote1">1</a>: https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
+<a name="footnote1">1</a>: httpss://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
 
-<a name="footnote2">2</a>: https://www.gartner.com/doc/3525644
-<a name="footnote3">3</a>: http://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
+<a name="footnote2">2</a>: httpss://www.gartner.com/doc/3525644
+<a name="footnote3">3</a>: https://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
 
 ---
 

@@ -4,7 +4,7 @@ title: Kanteron Systems Selecciona Dicom Systems Unifier como Adaptador Universa
 date: 2016-03-16T18:50:10+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2407
+guid: https://blog.kanteron.com/es/?p=2407
 permalink: /2016/03/16/kanteron-systems-selecciona-dicom-systems-unifier-como-adaptador-universal-de-imagen-medica/
 image: /wp-content/uploads/sites/2/2015/07/Handshake.jpg
 ---

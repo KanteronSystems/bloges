@@ -4,7 +4,7 @@ title: Kanteron y Ver2 Digital Medicine llevan la integración de imagen médica
 date: 2015-10-09T17:15:13+00:00
 author: jcortell
 layout: post
-guid: http://blog.kanteron.com/es/?p=2278
+guid: https://blog.kanteron.com/es/?p=2278
 permalink: /2015/10/09/kanteron-y-ver2-digital-medicine-llevan-la-integracion-de-imagen-medica-y-datos-genomicos-a-oriente-medio/
 image: /wp-content/uploads/sites/2/2015/10/Ver2Logo.jpeg
 ---
@@ -29,7 +29,7 @@ image: /wp-content/uploads/sites/2/2015/10/Ver2Logo.jpeg
 </p>
 
 <p class="p1">
-  Kanteron Systems es una compañía privada de Tecnología Sanitaria e Informática Biomédica fundada en 2005. Con oficinas en Nueva York (EE.UU.), Londres (Reino Unido), Lima (Perú), y sede europea en Valencia (España), Kanteron Systems ha desplegado su solución más de 500 veces en 12 países, en algunas de las redes de salud más grandes del mundo, como el MD Anderson en los EE.UU., el NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México, o EsSalud en Perú. Para obtener más información, visite: http://www.kanteron.com o envie un correo electrónico a info@kanteron.com.
+  Kanteron Systems es una compañía privada de Tecnología Sanitaria e Informática Biomédica fundada en 2005. Con oficinas en Nueva York (EE.UU.), Londres (Reino Unido), Lima (Perú), y sede europea en Valencia (España), Kanteron Systems ha desplegado su solución más de 500 veces en 12 países, en algunas de las redes de salud más grandes del mundo, como el MD Anderson en los EE.UU., el NHS en el Reino Unido, Seguridad Social en España, ISSSTE en México, o EsSalud en Perú. Para obtener más información, visite: https://www.kanteron.com o envie un correo electrónico a info@kanteron.com.
 </p>
 
 <p class="p1">
@@ -37,5 +37,5 @@ image: /wp-content/uploads/sites/2/2015/10/Ver2Logo.jpeg
 </p>
 
 <p class="p1">
-  Con sede en Dubai, Ver2DigiMed es la solución a algunos de los mayores problemas en la asistencia sanitaria a nivel mundial: escasez de trabajadores de la salud, propagación de enfermedades crónicas, acceso a una atención de calidad y necesidad de mejorar la seguridad del paciente. Ver2 ofrece una cartera integrada de servicios digitales, incluyendo teleradiología, telepatología, monitoreo remoto de pacientes, así como la educación y tele-medicina. Mediante el uso de avances comprobados en la digitalización, conectividad y computación cognitiva, Ver2 ha buscado los mejores proveedores de todo el mundo para ofrecer una sanidad mejor, más eficiente y más segura. Para obtener más información, por favor visite http://ver2digimed.com o LinkedIn.
+  Con sede en Dubai, Ver2DigiMed es la solución a algunos de los mayores problemas en la asistencia sanitaria a nivel mundial: escasez de trabajadores de la salud, propagación de enfermedades crónicas, acceso a una atención de calidad y necesidad de mejorar la seguridad del paciente. Ver2 ofrece una cartera integrada de servicios digitales, incluyendo teleradiología, telepatología, monitoreo remoto de pacientes, así como la educación y tele-medicina. Mediante el uso de avances comprobados en la digitalización, conectividad y computación cognitiva, Ver2 ha buscado los mejores proveedores de todo el mundo para ofrecer una sanidad mejor, más eficiente y más segura. Para obtener más información, por favor visite https://ver2digimed.com o LinkedIn.
 </p>

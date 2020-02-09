@@ -4,7 +4,7 @@ title: CHARLA EN EL MASTER EN CREACIÓN Y GESTIÓN DE EMPRESAS INNOVADORAS Y DE 
 date: 2009-02-26T10:50:34+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=37
+guid: https://kanteron.com/blog/?p=37
 permalink: /2009/02/26/charla-en-el-master-en-creacion-y-gestion-de-empresas-innovadoras-y-de-base-tecnologica-de-la-uv/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

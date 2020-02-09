@@ -4,7 +4,7 @@ title: everis presenta el primer sistema de Historia Clínica Electrónica con c
 date: 2015-04-08T19:51:10+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/es/?p=2019
+guid: https://blog.kanteron.com/es/?p=2019
 permalink: /2015/04/08/everis-presenta-el-primer-sistema-de-historia-clinica-electronica-con-capacidades-genomicas/
 image: /wp-content/uploads/sites/2/2015/03/logo_everis_BW.png
 ---
@@ -81,7 +81,7 @@ image: /wp-content/uploads/sites/2/2015/03/logo_everis_BW.png
 </p>
 
 <p class="p17">
-  La consultora pertenece al grupo NTT DATA, la sexta compañía de servicios IT del mundo, con 70.000 profesionales y presencia en Asia-Pacífico, Oriente Medio, Europa, Latinoamérica y Norteamérica. La integración en NTT DATA permite a everis ampliar las soluciones y servicios para sus clientes, aumentar sus capacidades, recursos tecnológicos, geográficos y financieros que ayudan a dar las respuestas más innovadoras a sus clientes. <a href="http://www.everis.com"><span class="s2">www.everis.com</span></a>
+  La consultora pertenece al grupo NTT DATA, la sexta compañía de servicios IT del mundo, con 70.000 profesionales y presencia en Asia-Pacífico, Oriente Medio, Europa, Latinoamérica y Norteamérica. La integración en NTT DATA permite a everis ampliar las soluciones y servicios para sus clientes, aumentar sus capacidades, recursos tecnológicos, geográficos y financieros que ayudan a dar las respuestas más innovadoras a sus clientes. <a href="https://www.everis.com"><span class="s2">www.everis.com</span></a>
 </p>
 
 <p class="p17">
@@ -89,7 +89,7 @@ image: /wp-content/uploads/sites/2/2015/03/logo_everis_BW.png
 </p>
 
 <p class="p18">
-  ehCOS es la suite de productos de eSalud de clase mundial desarrollada por everis para el sector salud, cuyo centro es una Historia Clínica Electrónica de nueva generación centrada en el paciente y en la mejor gestión y análisis de sus datos para aumentar la calidad y seguridad en la atención. La suite se desarrolla sobre una plataforma abierta e innovador concepto modular con filosofía “LEGO”, proporcionando una respuesta efectiva a las necesidades de informatización de los procesos sanitarios. <a href="%22http:"><span class="s2">www.ehcos.com</span></a>
+  ehCOS es la suite de productos de eSalud de clase mundial desarrollada por everis para el sector salud, cuyo centro es una Historia Clínica Electrónica de nueva generación centrada en el paciente y en la mejor gestión y análisis de sus datos para aumentar la calidad y seguridad en la atención. La suite se desarrolla sobre una plataforma abierta e innovador concepto modular con filosofía “LEGO”, proporcionando una respuesta efectiva a las necesidades de informatización de los procesos sanitarios. <a href="%22https:"><span class="s2">www.ehcos.com</span></a>
 </p>
 
 <p class="p17">

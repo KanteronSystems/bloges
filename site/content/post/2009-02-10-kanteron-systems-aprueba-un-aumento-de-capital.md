@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS APRUEBA UN AUMENTO DE CAPITAL
 date: 2009-02-10T10:52:05+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=38
+guid: https://kanteron.com/blog/?p=38
 permalink: /2009/02/10/kanteron-systems-aprueba-un-aumento-de-capital/
 ---
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

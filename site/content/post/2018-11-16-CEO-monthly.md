@@ -2,17 +2,17 @@
 date: 2018-11-16T20:14:57+00:00
 title: CEO Monthly nombra a Kanteron Mejor Proveedor de Imagen Médica y Bioinformática, y a Jorge Cortell CEO del año en Patología Digital
 tags: ["kanteron", "noticias", "premios"]
-image: "https://www.ceo-review.com/images/headerLogo.jpg"
+image: "httpss://www.ceo-review.com/images/headerLogo.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: https://www.ceo-review.com/images/headerLogo.jpg
-coverImage: https://www.ceo-review.com/images/headerLogo.jpg
+thumbnailImage: httpss://www.ceo-review.com/images/headerLogo.jpg
+coverImage: httpss://www.ceo-review.com/images/headerLogo.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
-[La revista británica CEO Monthly](https://www.ceo-review.com/2018-kanteron-systems-jorge-cortell) nombra a Kanteron Systems Mejor Proveedor de Imagen Médica y Bioinformática, y a su Gerente, Jorge Cortell, CEO del Año en Patología Digital.
+[La revista británica CEO Monthly](httpss://www.ceo-review.com/2018-kanteron-systems-jorge-cortell) nombra a Kanteron Systems Mejor Proveedor de Imagen Médica y Bioinformática, y a su Gerente, Jorge Cortell, CEO del Año en Patología Digital.
 
 <!--more-->
 
