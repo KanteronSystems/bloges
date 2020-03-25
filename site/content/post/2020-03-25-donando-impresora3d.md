@@ -17,6 +17,8 @@ Kanteron Systems donó hoy una impresora 3D para ayudar a las autoridades sanita
 
 <!--more-->
 
+![RC2](https://media.prusaprinters.org/thumbs/inside/1280x960/media/prints/25857/images/260468_72bc89ab-9ac5-4de4-9078-ee9573ad35d6/main00_00_54_05still004.jpg)
+
 El [Equipo de Protección Civil de Puçol](https://www.facebook.com/ProteccioCivilPucol) (España), unos de los muchos héroes que están luchando por todos nosotros en el frente contra la pandemia, junto a personal sanitario, policías, personal de reparto, de supermercados... recogió hoy una impresora 3D y recargas de filamentos donado por Kanteron Systems para producir máscaras de protección, como [la RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) o la [NanoHack](http://copper3d.com/hackthepandemic/).
 
 Todos hemos de contribuir. Unidos por el bien común.
