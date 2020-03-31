@@ -21,8 +21,14 @@ Kanteron Systems donó hoy una impresora 3D para ayudar a las autoridades sanita
 
 El [Equipo de Protección Civil de Puçol](https://www.facebook.com/ProteccioCivilPucol) (España), unos de los muchos héroes que están luchando por todos nosotros en el frente contra la pandemia, junto a personal sanitario, policías, personal de reparto, de supermercados... recogió hoy una impresora 3D y recargas de filamentos donado por Kanteron Systems para producir máscaras de protección, como [la RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) o la [NanoHack](http://copper3d.com/hackthepandemic/).
 
+Aquí están las primeras máscaras impresas en 3D donadas a hospitales locales:
+
+![Máscaras a hospitales](https://lh3.googleusercontent.com/fbXZpPyY95oJKuif99Zmxd2LEfX8yUwcJZBq9y-R8FvFUja9LVw-A-Omjcm0k_2SjtZKEucI5xbvem7JCKfXK1LFrCo5Oo-eycuNqUTTQiDhnE1xI7J7MoUB4NUF_-JiOKaNljQCdFo=w1920-h1080)
+
 Todos hemos de contribuir. Unidos por el bien común.
 
 ![NanoHack](https://www.3dnatives.com/es/wp-content/uploads/sites/4/masque_filtre.jpg)
+
+[![Keep calm](https://www.coronavirusmakers.org/images/YOMEQUEDOENCASA.png)](https://www.coronavirusmakers.org/index.php/es/)
 
 https://www.youtube.com/watch?v=pP7z3iw76GA
