@@ -27,6 +27,7 @@ Aplicaciones:
 - Diagnóstico más rápido y preciso: brinda a las instituciones de salud la flexibilidad necesaria para usar uno o varios métodos de diagnóstico (PCR, ultrasonido, rayos X, tomografías, patología ...) e integrar los resultados con el historial médico del paciente.
 - Escala: con sistemas interconectados asíncronos y remotos, la atención (desde el diagnóstico hasta el tratamiento y el seguimiento) se puede proporcionar de forma remota, maximizando así la cobertura geográfica y la disponibilidad de recursos escasos.
 - Informes de salud y epidemiología de la población en tiempo real: una vez que estos datos se integran tanto a nivel de flujo de trabajo como a nivel de paciente, pueden formar parte de sistemas de alerta epidemiológica y de salud de la población más amplia para un procesamiento eficiente de eventos de enfermedades infecciosas.
+- Genómica y farmacogenómica (en desarrollo): a medida que se conoce más sobre el virus, cómo afecta a diferentes pacientes según su ADN, y cómo estos reaccionan a los medicamentos prescritos, se puede analizar qué factor de riesgo y respuesta a tratamiento puede tener cada persona.
 
 Más detalles aquí: [Integración de datos y procesamiento de eventos de enfermedades infecciosas COVID-19](https://figshare.com/articles/Data_integration_and_processing_of_COVID-19_Infectious_Disease_events/11988129).
 
@@ -41,6 +42,8 @@ Dr. Jordi Serrano-Pons, Ginebra (Suiza): Asesor de innovación en la Organizaci�
 Francisco Cervero (Singapur): Consultor de salud global en la Organización Mundial de la Salud; Investigador de Sistemas de Salud, Política y Economía en la Universidad Nacional de Singapur.
 
 La plataforma de Kanteron ya está instalada en algunos de los sistemas de salud más grandes del mundo, y hemos comenzado a recibir informes de que está marcando una verdadera diferencia. Para consultas adicionales, por favor [contáctenos utilizando el formulario en la parte inferior de nuestra página web](https://www.kanteron.com/).
+
+También ha sido listada en la web de Catalyst Health 2.0 [Health Tech Responds to COVID-19](https://www.covid19healthtech.com/companies/kanteron-systems).
 
 ¡Gracias por el incansable trabajo duro, equipo de Kanteron! 💪
 
