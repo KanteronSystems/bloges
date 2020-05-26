@@ -21,6 +21,10 @@ Después de [ofrecer nuestra tecnología a la UE el 11 de marzo](https://blog.ka
 
 Kanteron Systems ha adaptado su plataforma, que integra imágenes médicas (PACS-RIS), patología digital (WSI), genómica clínica (flujos de trabajo de análisis de datos de PCR y NGS). También crea informes técnicos automáticos para medicina de precisión con procedimientos de control de calidad y LIMS totalmente integrados. Todos estos datos centrados en el paciente pueden integrarse fácilmente en los sistemas HIS/EMR y utilizar protocolos estándar HL7.
 
+[La integración e interoperabilidad de los datos es crucial](https://arstechnica.com/tech-policy/2020/04/how-hospital-it-challenges-are-holding-back-covid-19-testing-efforts/) en eventos como esta pandemia:
+
+> Una [investigación de Nature](https://www.nature.com/articles/d41586-020-01068-3) ha revelado que varios laboratorios académicos capaces de realizar pruebas COVID-19 están funcionando muy por debajo de su capacidad. Los informes de Nature sugieren que los sistemas de TI incompatibles son la razón fundamental de este desajuste.
+
 Aplicaciones:
 
 - Mayor prevención: permite que algunos trabajadores sanitarios trabajen de forma remota (teleradiología, telepatología y telegenómica), evitando contagios y reducciones innecesarias del personal sanitario necesario.
@@ -41,7 +45,7 @@ Dr. Jordi Serrano-Pons, Ginebra (Suiza): Asesor de innovación en la Organizaci�
 
 Francisco Cervero (Singapur): Consultor de salud global en la Organización Mundial de la Salud; Investigador de Sistemas de Salud, Política y Economía en la Universidad Nacional de Singapur.
 
-La plataforma de Kanteron ya está instalada en algunos de los sistemas de salud más grandes del mundo, y hemos comenzado a recibir informes de que está marcando una verdadera diferencia. Para consultas adicionales, por favor [contáctenos utilizando el formulario en la parte inferior de nuestra página web](https://www.kanteron.com/#CONTACT).
+La plataforma de Kanteron ya está instalada en algunos de los sistemas de salud más grandes del mundo, y hemos comenzado a recibir informes de que está marcando una verdadera diferencia, por ejemplo tal y como se muestra en [este reportaje de AmericaTV](https://www.americatv.com.pe/noticias/actualidad/como-ataca-coronavirus-pulmones-y-que-dano-causa-pacientes-n410305). Para consultas adicionales, por favor [contáctenos utilizando el formulario en la parte inferior de nuestra página web](https://www.kanteron.com/#CONTACT).
 
 También ha sido listada en la web de Catalyst Health 2.0 [Health Tech Responds to COVID-19](https://www.covid19healthtech.com/companies/kanteron-systems).
 
