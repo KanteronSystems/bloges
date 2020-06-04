@@ -13,13 +13,13 @@ coverMeta: out
 
 ---
 
-El departamento de Bioinformática de Kanteron Systems, en colaboración con científicos de varias instituciones, presentará 2 trabajos en el congreso anual de la Sociedad Europea de Genética Humana ([ESHG20](https://2020.eshg.org/) en Berlín, Alemania, 06-09 de junio de 2020.
+El departamento de Bioinformática de Kanteron Systems, en colaboración con científicos de varias instituciones, presenta 2 trabajos en el congreso anual de la Sociedad Europea de Genética Humana [ESHG20](https://2020.eshg.org/) que iba a celebrarse en Berlín (Alemania) pero debido a CoViD19 se celebra online, del 06-09 de junio de 2020.
 
 <!--more-->
 
 ![ESHG](https://upload.wikimedia.org/wikipedia/commons/a/a3/Westend_CityCube_Berlin.JPG)
 
-Dirigidos por el Dr. Pablo Marín, junto con otros miembros de su equipo como el matemático doctorando Josemi Juanes, el científico de datos Pedro Pons y el bioinformático Rodiel Martinez, los 2 posters científicos que se presentarán en ESHG20 serán:
+Dirigidos por el Dr. Pablo Marín, junto con otros miembros de su equipo como el matemático doctorando Josemi Juanes, el científico de datos Pedro Pons y el bioinformático Rodiel Martinez, los 2 posters científicos que se presentan en ESHG20 son:
 
 * MGvizCNV: capa de aprendizaje automático para CNV QC y recalibración de puntuación de evidencia
 * PanelMaps: una aplicación web de sistema soporte de decisiones para la evaluación clínica de CNA
