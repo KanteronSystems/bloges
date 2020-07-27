@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calidad on Blog de Kanteron Systems en Castellano</title>
+    <link>https://bloges.kanteron.com/tags/calidad/</link>
+    <description>Recent content in calidad on Blog de Kanteron Systems en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://bloges.kanteron.com/tags/calidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kanteron pasa la auditoría ISO 13485</title>
+      <link>https://bloges.kanteron.com/2020/04/kanteron-pasa-la-auditor%C3%ADa-iso-13485/</link>
+      <pubDate>Thu, 09 Apr 2020 00:14:57 +0000</pubDate>
+      
+      <guid>https://bloges.kanteron.com/2020/04/kanteron-pasa-la-auditor%C3%ADa-iso-13485/</guid>
+      <description>&lt;p&gt;Kanteron Systems pasó hoy la auditoría &lt;a href=&#34;https://www.iso.org/standard/59752.html&#34;&gt;ISO 13485&lt;/a&gt; de Bureau Veritas, recibiendo la certificación ISO 13485 del Sistema de Gestión de Calidad (QMS).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

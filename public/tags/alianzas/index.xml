@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alianzas on Blog de Kanteron Systems en Castellano</title>
+    <link>https://bloges.kanteron.com/tags/alianzas/</link>
+    <description>Recent content in alianzas on Blog de Kanteron Systems en Castellano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 01:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://bloges.kanteron.com/tags/alianzas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La solución de Kanteron publicada en el Marketplace y AppSource de Microsoft</title>
+      <link>https://bloges.kanteron.com/2019/03/la-soluci%C3%B3n-de-kanteron-publicada-en-el-marketplace-y-appsource-de-microsoft/</link>
+      <pubDate>Mon, 11 Mar 2019 01:14:57 +0000</pubDate>
+      
+      <guid>https://bloges.kanteron.com/2019/03/la-soluci%C3%B3n-de-kanteron-publicada-en-el-marketplace-y-appsource-de-microsoft/</guid>
+      <description>&lt;p&gt;Kanteron Systems anuncia la publicación y disponibilidad general de la solución de medicina de precisión de Kanteron (incluidos los módulos de radiología PACS-RIS, patología digital, genómica y farmacogenómica) en Azure Marketplace y AppSource de Microsoft.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

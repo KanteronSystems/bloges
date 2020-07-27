@@ -1,0 +1,4 @@
+baseURL = "http://bloges.kanteron.com/"
+languageCode = "es-es"
+title = "Blog de Kanteron Systems"
+theme = "tranquilpeak"
