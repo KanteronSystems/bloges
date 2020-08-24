@@ -5,7 +5,7 @@ tags: ["kanteron", "noticias"]
 image: "https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg
 coverImage: https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg
 metaAlignment: center
