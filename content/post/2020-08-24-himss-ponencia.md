@@ -29,3 +29,5 @@ Otros ponentes en esta sesión:
 * Dr. Shafi Ahmed, cirujano, futurista de salud digital, cofundador y director médico de Medical Realities.
 * Marianne Larsson, Directora de Nuevas Industrias e Innovación en Innovation Skane
 * Mikael Rinnetmäki, Fundador de Sensotrend Oy
+
+Actualización: Puede leer un [resumen de la sesión en MobiHealth News](https://www.mobihealthnews.com/news/we-want-everyone-be-radical-changemaker).
