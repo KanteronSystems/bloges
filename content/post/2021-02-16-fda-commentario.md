@@ -3,9 +3,9 @@ date: 2021-02-16T00:14:57+00:00
 title: Comentario de Kanteron Systems a una propuesta de la FDA
 tags: ["kanteron", "regulation"]
 image: "https://media.npr.org/assets/img/2016/09/27/fda_wide-5086fe883ff8b5dde9a3d8470ae4dfbd9b15172f.jpg?s=1400"
-comments: true     # set false to hide Disqus comments
+comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://media.npr.org/assets/img/2016/09/27/fda_wide-5086fe883ff8b5dde9a3d8470ae4dfbd9b15172f.jpg?s=1400
 coverImage: https://media.npr.org/assets/img/2016/09/27/fda_wide-5086fe883ff8b5dde9a3d8470ae4dfbd9b15172f.jpg?s=1400
 metaAlignment: center
@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Kanteron Systems ha comunicado formalmente su posición a la Administración de Alimentos y Medicamentos de EE. UU. (Food and Drug Administration - FDA) con respecto al [Documento FDA-2021-N-0009-0001](https://beta.regulations.gov/document/FDA-2021-N-0009 -0001)
+Kanteron Systems ha comunicado formalmente su posición a la Administración de Alimentos y Medicamentos de EE. UU. (Food and Drug Administration - FDA) con respecto al [Documento FDA-2021-N-0009-0001](https://beta.regulations.gov/document/FDA-2021-N-0009-0001).
 
 <!--more-->
 
