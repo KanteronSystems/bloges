@@ -2370,8 +2370,8 @@ underscore.string@~3.3.5:
     util-deprecate "^1.0.2"
 
 underscore@>=1.1.4:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+  version "1.13.3"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.3.tgz#54bc95f7648c5557897e5e968d0f76bc062c34ee"
 
 unpipe@1.0.0:
   version "1.0.0"
